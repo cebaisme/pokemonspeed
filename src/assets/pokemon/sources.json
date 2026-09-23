@@ -1,0 +1,240 @@
+[
+  {
+    "id": "pikachu",
+    "originalFile": "80px-Champions_0025_Sprite.png",
+    "file": "皮卡丘.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "venusaur",
+    "originalFile": "80px-Champions_0003_Sprite.png",
+    "file": "妙蛙花.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "charizard",
+    "originalFile": "80px-Champions_0006_Sprite.png",
+    "file": "噴火龍.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "blastoise",
+    "originalFile": "80px-Champions_0009_Sprite.png",
+    "file": "水箭龜.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "raichu-alola",
+    "originalFile": "80px-Champions_0026A_Sprite.png",
+    "file": "雷丘（阿羅拉）.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "ninetales-alola",
+    "originalFile": "80px-Champions_0038A_Sprite.png",
+    "file": "九尾（阿羅拉）.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "gengar",
+    "originalFile": "80px-Champions_0094_Sprite.png",
+    "file": "耿鬼.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "scizor",
+    "originalFile": "80px-Champions_0212_Sprite.png",
+    "file": "巨鉗螳螂.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "tyranitar",
+    "originalFile": "80px-Champions_0248_Sprite.png",
+    "file": "班基拉斯.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "aggron",
+    "originalFile": "80px-Champions_0306_Sprite.png",
+    "file": "波士可多拉.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "aggron-mega",
+    "originalFile": "80px-Champions_0306M_Sprite.png",
+    "file": "Mega波士可多拉.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "garchomp",
+    "originalFile": "80px-Champions_0445_Sprite.png",
+    "file": "烈咬陸鯊.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "garchomp-mega",
+    "originalFile": "80px-Champions_0445M_Sprite.png",
+    "file": "Mega烈咬陸鯊.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "froslass",
+    "originalFile": "80px-Champions_0478_Sprite.png",
+    "file": "雪妖女.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "chandelure",
+    "originalFile": "80px-Champions_0609_Sprite.png",
+    "file": "水晶燈火靈.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "hawlucha",
+    "originalFile": "80px-Champions_0701_Sprite.png",
+    "file": "摔角鷹人.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "mimikyu",
+    "originalFile": "80px-Champions_0778_Sprite.png",
+    "file": "謎擬Ｑ.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "dragapult",
+    "originalFile": "80px-Champions_0887_Sprite.png",
+    "file": "多龍巴魯托.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "farigiraf",
+    "originalFile": "80px-Champions_0981_Sprite.png",
+    "file": "奇麒麟.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "raichu",
+    "originalFile": "80px-Champions_0026_Sprite.png",
+    "file": "雷丘.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "raichu-mega-x",
+    "originalFile": "80px-Champions_0026MX_Sprite.png",
+    "file": "Mega雷丘X.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "raichu-mega-y",
+    "originalFile": "80px-Champions_0026MY_Sprite.png",
+    "file": "Mega雷丘Y.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "sceptile",
+    "originalFile": "80px-Champions_0254_Sprite.png",
+    "file": "蜥蜴王.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "sceptile-mega",
+    "originalFile": "80px-Champions_0254M_Sprite.png",
+    "file": "Mega蜥蜴王.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "froslass-mega",
+    "originalFile": "80px-Champions_0478M_Sprite.png",
+    "file": "Mega雪妖女.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "hawlucha-mega",
+    "originalFile": "80px-Champions_0701M_Sprite.png",
+    "file": "Mega摔角鷹人.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "blastoise-mega",
+    "originalFile": "80px-Champions_0009M_Sprite.png",
+    "file": "Mega水箭龜.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "garchomp-mega-z",
+    "originalFile": "80px-Champions_0445MZ_Sprite.png",
+    "file": "Mega烈咬陸鯊Z.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "incineroar",
+    "originalFile": "80px-Champions_0727_Sprite.png",
+    "file": "熾焰咆哮虎.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "golisopod",
+    "originalFile": "80px-Champions_0768_Sprite.png",
+    "file": "具甲武者.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "golisopod-mega",
+    "originalFile": "80px-Champions_0768M_Sprite.png",
+    "file": "Mega具甲武者.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "rillaboom",
+    "originalFile": "80px-Champions_0812_Sprite.png",
+    "file": "轟擂金剛猩.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "indeedee-male",
+    "originalFile": "80px-Champions_0876_Sprite.png",
+    "file": "愛管侍（公）.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  },
+  {
+    "id": "indeedee-female",
+    "originalFile": "80px-Champions_0876F_Sprite.png",
+    "file": "愛管侍（母）.png",
+    "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
+    "format": "PNG"
+  }
+]

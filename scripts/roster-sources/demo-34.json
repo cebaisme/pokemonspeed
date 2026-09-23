@@ -1,0 +1,514 @@
+[
+  {
+    "id": "raichu",
+    "dex": 26,
+    "name": "雷丘",
+    "en": "Raichu",
+    "types": [
+      "電"
+    ],
+    "generation": 1,
+    "speed": 110,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/雷丘.png"
+  },
+  {
+    "id": "raichu-mega-x",
+    "dex": 26,
+    "name": "超級雷丘Ｘ",
+    "en": "Mega Raichu X",
+    "types": [
+      "電"
+    ],
+    "generation": 1,
+    "speed": 110,
+    "fullyEvolved": true,
+    "mega": true,
+    "megaDebut": "ZA DLC",
+    "image": "./assets/pokemon/Mega雷丘X.png"
+  },
+  {
+    "id": "raichu-mega-y",
+    "dex": 26,
+    "name": "超級雷丘Ｙ",
+    "en": "Mega Raichu Y",
+    "types": [
+      "電"
+    ],
+    "generation": 1,
+    "speed": 130,
+    "fullyEvolved": true,
+    "mega": true,
+    "megaDebut": "ZA DLC",
+    "image": "./assets/pokemon/Mega雷丘Y.png"
+  },
+  {
+    "id": "pikachu",
+    "dex": 25,
+    "name": "皮卡丘",
+    "en": "Pikachu",
+    "types": [
+      "電"
+    ],
+    "generation": 1,
+    "speed": 90,
+    "fullyEvolved": false,
+    "mega": false,
+    "image": "./assets/pokemon/皮卡丘.png"
+  },
+  {
+    "id": "venusaur",
+    "dex": 3,
+    "name": "妙蛙花",
+    "en": "Venusaur",
+    "types": [
+      "草",
+      "毒"
+    ],
+    "generation": 1,
+    "speed": 80,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/妙蛙花.png"
+  },
+  {
+    "id": "charizard",
+    "dex": 6,
+    "name": "噴火龍",
+    "en": "Charizard",
+    "types": [
+      "火",
+      "飛行"
+    ],
+    "generation": 1,
+    "speed": 100,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/噴火龍.png"
+  },
+  {
+    "id": "blastoise",
+    "dex": 9,
+    "name": "水箭龜",
+    "en": "Blastoise",
+    "types": [
+      "水"
+    ],
+    "generation": 1,
+    "speed": 78,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/水箭龜.png"
+  },
+  {
+    "id": "raichu-alola",
+    "dex": 26,
+    "name": "雷丘（阿羅拉的樣子）",
+    "en": "Alolan Raichu",
+    "types": [
+      "電",
+      "超能力"
+    ],
+    "generation": 1,
+    "speed": 110,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/雷丘（阿羅拉）.png"
+  },
+  {
+    "id": "ninetales-alola",
+    "dex": 38,
+    "name": "九尾（阿羅拉的樣子）",
+    "en": "Alolan Ninetales",
+    "types": [
+      "冰",
+      "妖精"
+    ],
+    "generation": 1,
+    "speed": 109,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/九尾（阿羅拉）.png"
+  },
+  {
+    "id": "gengar",
+    "dex": 94,
+    "name": "耿鬼",
+    "en": "Gengar",
+    "types": [
+      "幽靈",
+      "毒"
+    ],
+    "generation": 1,
+    "speed": 110,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/耿鬼.png"
+  },
+  {
+    "id": "scizor",
+    "dex": 212,
+    "name": "巨鉗螳螂",
+    "en": "Scizor",
+    "types": [
+      "蟲",
+      "鋼"
+    ],
+    "generation": 2,
+    "speed": 65,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/巨鉗螳螂.png"
+  },
+  {
+    "id": "tyranitar",
+    "dex": 248,
+    "name": "班基拉斯",
+    "en": "Tyranitar",
+    "types": [
+      "岩石",
+      "惡"
+    ],
+    "generation": 2,
+    "speed": 61,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/班基拉斯.png"
+  },
+  {
+    "id": "aggron",
+    "dex": 306,
+    "name": "波士可多拉",
+    "en": "Aggron",
+    "types": [
+      "鋼",
+      "岩石"
+    ],
+    "generation": 3,
+    "speed": 50,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/波士可多拉.png"
+  },
+  {
+    "id": "sceptile",
+    "dex": 254,
+    "name": "蜥蜴王",
+    "en": "Sceptile",
+    "types": [
+      "草"
+    ],
+    "generation": 3,
+    "speed": 120,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/蜥蜴王.png"
+  },
+  {
+    "id": "sceptile-mega",
+    "dex": 254,
+    "name": "超級蜥蜴王",
+    "en": "Mega Sceptile",
+    "types": [
+      "草",
+      "龍"
+    ],
+    "generation": 3,
+    "speed": 145,
+    "fullyEvolved": true,
+    "mega": true,
+    "megaDebut": "ORAS",
+    "image": "./assets/pokemon/Mega蜥蜴王.png"
+  },
+  {
+    "id": "aggron-mega",
+    "dex": 306,
+    "name": "超級波士可多拉",
+    "en": "Mega Aggron",
+    "types": [
+      "鋼"
+    ],
+    "generation": 3,
+    "speed": 50,
+    "fullyEvolved": true,
+    "mega": true,
+    "megaDebut": "XY",
+    "image": "./assets/pokemon/Mega波士可多拉.png"
+  },
+  {
+    "id": "garchomp",
+    "dex": 445,
+    "name": "烈咬陸鯊",
+    "en": "Garchomp",
+    "types": [
+      "龍",
+      "地面"
+    ],
+    "generation": 4,
+    "speed": 102,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/烈咬陸鯊.png"
+  },
+  {
+    "id": "garchomp-mega",
+    "dex": 445,
+    "name": "超級烈咬陸鯊",
+    "en": "Mega Garchomp",
+    "types": [
+      "龍",
+      "地面"
+    ],
+    "generation": 4,
+    "speed": 92,
+    "fullyEvolved": true,
+    "mega": true,
+    "megaDebut": "XY",
+    "image": "./assets/pokemon/Mega烈咬陸鯊.png"
+  },
+  {
+    "id": "froslass",
+    "dex": 478,
+    "name": "雪妖女",
+    "en": "Froslass",
+    "types": [
+      "冰",
+      "幽靈"
+    ],
+    "generation": 4,
+    "speed": 110,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/雪妖女.png"
+  },
+  {
+    "id": "froslass-mega",
+    "dex": 478,
+    "name": "超級雪妖女",
+    "en": "Mega Froslass",
+    "types": [
+      "冰",
+      "幽靈"
+    ],
+    "generation": 4,
+    "speed": 120,
+    "fullyEvolved": true,
+    "mega": true,
+    "megaDebut": "ZA",
+    "image": "./assets/pokemon/Mega雪妖女.png"
+  },
+  {
+    "id": "chandelure",
+    "dex": 609,
+    "name": "水晶燈火靈",
+    "en": "Chandelure",
+    "types": [
+      "幽靈",
+      "火"
+    ],
+    "generation": 5,
+    "speed": 80,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/水晶燈火靈.png"
+  },
+  {
+    "id": "hawlucha",
+    "dex": 701,
+    "name": "摔角鷹人",
+    "en": "Hawlucha",
+    "types": [
+      "格鬥",
+      "飛行"
+    ],
+    "generation": 6,
+    "speed": 118,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/摔角鷹人.png"
+  },
+  {
+    "id": "hawlucha-mega",
+    "dex": 701,
+    "name": "超級摔角鷹人",
+    "en": "Mega Hawlucha",
+    "types": [
+      "格鬥",
+      "飛行"
+    ],
+    "generation": 6,
+    "speed": 118,
+    "fullyEvolved": true,
+    "mega": true,
+    "megaDebut": "ZA",
+    "image": "./assets/pokemon/Mega摔角鷹人.png"
+  },
+  {
+    "id": "mimikyu",
+    "dex": 778,
+    "name": "謎擬Ｑ",
+    "en": "Mimikyu",
+    "types": [
+      "幽靈",
+      "妖精"
+    ],
+    "generation": 7,
+    "speed": 96,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/謎擬Ｑ.png"
+  },
+  {
+    "id": "dragapult",
+    "dex": 887,
+    "name": "多龍巴魯托",
+    "en": "Dragapult",
+    "types": [
+      "龍",
+      "幽靈"
+    ],
+    "generation": 8,
+    "speed": 142,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/多龍巴魯托.png"
+  },
+  {
+    "id": "farigiraf",
+    "dex": 981,
+    "name": "奇麒麟",
+    "en": "Farigiraf",
+    "types": [
+      "一般",
+      "超能力"
+    ],
+    "generation": 9,
+    "speed": 60,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/奇麒麟.png"
+  },
+  {
+    "id": "blastoise-mega",
+    "dex": 9,
+    "name": "超級水箭龜",
+    "en": "Mega Blastoise",
+    "types": [
+      "水"
+    ],
+    "generation": 1,
+    "speed": 78,
+    "fullyEvolved": true,
+    "mega": true,
+    "megaDebut": "XY",
+    "image": "./assets/pokemon/Mega水箭龜.png"
+  },
+  {
+    "id": "garchomp-mega-z",
+    "dex": 445,
+    "name": "超級烈咬陸鯊Z",
+    "en": "Mega Garchomp Z",
+    "types": [
+      "龍"
+    ],
+    "generation": 4,
+    "speed": 151,
+    "fullyEvolved": true,
+    "mega": true,
+    "megaDebut": "ZA DLC",
+    "image": "./assets/pokemon/Mega烈咬陸鯊Z.png"
+  },
+  {
+    "id": "incineroar",
+    "dex": 727,
+    "name": "熾焰咆哮虎",
+    "en": "Incineroar",
+    "types": [
+      "火",
+      "惡"
+    ],
+    "generation": 7,
+    "speed": 60,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/熾焰咆哮虎.png"
+  },
+  {
+    "id": "golisopod",
+    "dex": 768,
+    "name": "具甲武者",
+    "en": "Golisopod",
+    "types": [
+      "蟲",
+      "水"
+    ],
+    "generation": 7,
+    "speed": 40,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/具甲武者.png"
+  },
+  {
+    "id": "golisopod-mega",
+    "dex": 768,
+    "name": "超級具甲武者",
+    "en": "Mega Golisopod",
+    "types": [
+      "蟲",
+      "鋼"
+    ],
+    "generation": 7,
+    "speed": 40,
+    "fullyEvolved": true,
+    "mega": true,
+    "megaDebut": "ZA DLC",
+    "image": "./assets/pokemon/Mega具甲武者.png"
+  },
+  {
+    "id": "rillaboom",
+    "dex": 812,
+    "name": "轟擂金剛猩",
+    "en": "Rillaboom",
+    "types": [
+      "草"
+    ],
+    "generation": 8,
+    "speed": 85,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/轟擂金剛猩.png"
+  },
+  {
+    "id": "indeedee-male",
+    "dex": 876,
+    "name": "愛管侍",
+    "en": "Indeedee Male",
+    "types": [
+      "超能力",
+      "一般"
+    ],
+    "generation": 8,
+    "speed": 95,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/愛管侍（公）.png",
+    "gender": "male"
+  },
+  {
+    "id": "indeedee-female",
+    "dex": 876,
+    "name": "愛管侍",
+    "en": "Indeedee Female",
+    "types": [
+      "超能力",
+      "一般"
+    ],
+    "generation": 8,
+    "speed": 85,
+    "fullyEvolved": true,
+    "mega": false,
+    "image": "./assets/pokemon/愛管侍（母）.png",
+    "gender": "female"
+  }
+]

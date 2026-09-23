@@ -1,0 +1,5493 @@
+[
+  {
+    "id": "venusaur",
+    "dex": 3,
+    "name": "妙蛙花",
+    "en": "Venusaur",
+    "types": [
+      "草",
+      "毒"
+    ],
+    "generation": 1,
+    "speed": 80,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/妙蛙花.png"
+  },
+  {
+    "id": "venusaur-mega",
+    "dex": 3,
+    "name": "超級妙蛙花",
+    "en": "Mega Venusaur",
+    "types": [
+      "草",
+      "毒"
+    ],
+    "generation": 1,
+    "speed": 80,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/venusaur-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "charizard",
+    "dex": 6,
+    "name": "噴火龍",
+    "en": "Charizard",
+    "types": [
+      "火",
+      "飛行"
+    ],
+    "generation": 1,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/噴火龍.png"
+  },
+  {
+    "id": "charizard-mega-x",
+    "dex": 6,
+    "name": "超級噴火龍Ｘ",
+    "en": "Mega Charizard X",
+    "types": [
+      "火",
+      "龍"
+    ],
+    "generation": 1,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/charizard-mega-x.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "charizard-mega-y",
+    "dex": 6,
+    "name": "超級噴火龍Ｙ",
+    "en": "Mega Charizard Y",
+    "types": [
+      "火",
+      "飛行"
+    ],
+    "generation": 1,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/charizard-mega-y.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "blastoise",
+    "dex": 9,
+    "name": "水箭龜",
+    "en": "Blastoise",
+    "types": [
+      "水"
+    ],
+    "generation": 1,
+    "speed": 78,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/水箭龜.png"
+  },
+  {
+    "id": "blastoise-mega",
+    "dex": 9,
+    "name": "超級水箭龜",
+    "en": "Mega Blastoise",
+    "types": [
+      "水"
+    ],
+    "generation": 1,
+    "speed": 78,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/Mega水箭龜.png",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "beedrill",
+    "dex": 15,
+    "name": "大針蜂",
+    "en": "Beedrill",
+    "types": [
+      "蟲",
+      "毒"
+    ],
+    "generation": 1,
+    "speed": 75,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/beedrill.webp"
+  },
+  {
+    "id": "beedrill-mega",
+    "dex": 15,
+    "name": "超級大針蜂",
+    "en": "Mega Beedrill",
+    "types": [
+      "蟲",
+      "毒"
+    ],
+    "generation": 1,
+    "speed": 145,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/beedrill-mega.webp",
+    "megaDebut": "ORAS"
+  },
+  {
+    "id": "pidgeot",
+    "dex": 18,
+    "name": "大比鳥",
+    "en": "Pidgeot",
+    "types": [
+      "一般",
+      "飛行"
+    ],
+    "generation": 1,
+    "speed": 101,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/pidgeot.webp"
+  },
+  {
+    "id": "pidgeot-mega",
+    "dex": 18,
+    "name": "超級大比鳥",
+    "en": "Mega Pidgeot",
+    "types": [
+      "一般",
+      "飛行"
+    ],
+    "generation": 1,
+    "speed": 121,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/pidgeot-mega.webp",
+    "megaDebut": "ORAS"
+  },
+  {
+    "id": "arbok",
+    "dex": 24,
+    "name": "阿柏怪",
+    "en": "Arbok",
+    "types": [
+      "毒"
+    ],
+    "generation": 1,
+    "speed": 80,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/arbok.webp"
+  },
+  {
+    "id": "pikachu",
+    "dex": 25,
+    "name": "皮卡丘",
+    "en": "Pikachu",
+    "types": [
+      "電"
+    ],
+    "generation": 1,
+    "speed": 90,
+    "fullyEvolved": false,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/皮卡丘.png"
+  },
+  {
+    "id": "raichu",
+    "dex": 26,
+    "name": "雷丘",
+    "en": "Raichu",
+    "types": [
+      "電"
+    ],
+    "generation": 1,
+    "speed": 110,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/雷丘.png"
+  },
+  {
+    "id": "raichu-alola",
+    "dex": 26,
+    "name": "雷丘（阿羅拉的樣子）",
+    "en": "Alolan Raichu",
+    "types": [
+      "電",
+      "超能力"
+    ],
+    "generation": 7,
+    "speed": 110,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/雷丘（阿羅拉）.png"
+  },
+  {
+    "id": "raichu-mega-x",
+    "dex": 26,
+    "name": "超級雷丘Ｘ",
+    "en": "Mega Raichu X",
+    "types": [
+      "電"
+    ],
+    "generation": 1,
+    "speed": 110,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/Mega雷丘X.png",
+    "megaDebut": "ZA DLC"
+  },
+  {
+    "id": "raichu-mega-y",
+    "dex": 26,
+    "name": "超級雷丘Ｙ",
+    "en": "Mega Raichu Y",
+    "types": [
+      "電"
+    ],
+    "generation": 1,
+    "speed": 130,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/Mega雷丘Y.png",
+    "megaDebut": "ZA DLC"
+  },
+  {
+    "id": "clefable",
+    "dex": 36,
+    "name": "皮可西",
+    "en": "Clefable",
+    "types": [
+      "妖精"
+    ],
+    "generation": 1,
+    "speed": 60,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/clefable.webp"
+  },
+  {
+    "id": "clefable-mega",
+    "dex": 36,
+    "name": "超級皮可西",
+    "en": "Mega Clefable",
+    "types": [
+      "妖精",
+      "飛行"
+    ],
+    "generation": 1,
+    "speed": 70,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/clefable-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "ninetales",
+    "dex": 38,
+    "name": "九尾",
+    "en": "Ninetales",
+    "types": [
+      "火"
+    ],
+    "generation": 1,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/ninetales.webp"
+  },
+  {
+    "id": "ninetales-alola",
+    "dex": 38,
+    "name": "九尾（阿羅拉的樣子）",
+    "en": "Alolan Ninetales",
+    "types": [
+      "冰",
+      "妖精"
+    ],
+    "generation": 7,
+    "speed": 109,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/九尾（阿羅拉）.png"
+  },
+  {
+    "id": "arcanine",
+    "dex": 59,
+    "name": "風速狗",
+    "en": "Arcanine",
+    "types": [
+      "火"
+    ],
+    "generation": 1,
+    "speed": 95,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/arcanine.webp"
+  },
+  {
+    "id": "arcanine-hisui",
+    "dex": 59,
+    "name": "風速狗（洗翠的樣子）",
+    "en": "Hisuian Arcanine",
+    "types": [
+      "火",
+      "岩石"
+    ],
+    "generation": 8,
+    "speed": 90,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/arcanine-hisui.webp"
+  },
+  {
+    "id": "alakazam",
+    "dex": 65,
+    "name": "胡地",
+    "en": "Alakazam",
+    "types": [
+      "超能力"
+    ],
+    "generation": 1,
+    "speed": 120,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/alakazam.webp"
+  },
+  {
+    "id": "alakazam-mega",
+    "dex": 65,
+    "name": "超級胡地",
+    "en": "Mega Alakazam",
+    "types": [
+      "超能力"
+    ],
+    "generation": 1,
+    "speed": 150,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/alakazam-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "machamp",
+    "dex": 68,
+    "name": "怪力",
+    "en": "Machamp",
+    "types": [
+      "格鬥"
+    ],
+    "generation": 1,
+    "speed": 55,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/machamp.webp"
+  },
+  {
+    "id": "victreebel",
+    "dex": 71,
+    "name": "大食花",
+    "en": "Victreebel",
+    "types": [
+      "草",
+      "毒"
+    ],
+    "generation": 1,
+    "speed": 70,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/victreebel.webp"
+  },
+  {
+    "id": "victreebel-mega",
+    "dex": 71,
+    "name": "超級大食花",
+    "en": "Mega Victreebel",
+    "types": [
+      "草",
+      "毒"
+    ],
+    "generation": 1,
+    "speed": 70,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/victreebel-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "slowbro",
+    "dex": 80,
+    "name": "呆殼獸",
+    "en": "Slowbro",
+    "types": [
+      "水",
+      "超能力"
+    ],
+    "generation": 1,
+    "speed": 30,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/slowbro.webp"
+  },
+  {
+    "id": "slowbro-galar",
+    "dex": 80,
+    "name": "呆殼獸（伽勒爾的樣子）",
+    "en": "Galarian Slowbro",
+    "types": [
+      "毒",
+      "超能力"
+    ],
+    "generation": 8,
+    "speed": 30,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/slowbro-galar.webp"
+  },
+  {
+    "id": "slowbro-mega",
+    "dex": 80,
+    "name": "超級呆殼獸",
+    "en": "Mega Slowbro",
+    "types": [
+      "水",
+      "超能力"
+    ],
+    "generation": 1,
+    "speed": 30,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/slowbro-mega.webp",
+    "megaDebut": "ORAS"
+  },
+  {
+    "id": "gengar",
+    "dex": 94,
+    "name": "耿鬼",
+    "en": "Gengar",
+    "types": [
+      "幽靈",
+      "毒"
+    ],
+    "generation": 1,
+    "speed": 110,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/耿鬼.png"
+  },
+  {
+    "id": "gengar-mega",
+    "dex": 94,
+    "name": "超級耿鬼",
+    "en": "Mega Gengar",
+    "types": [
+      "幽靈",
+      "毒"
+    ],
+    "generation": 1,
+    "speed": 130,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/gengar-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "kangaskhan",
+    "dex": 115,
+    "name": "袋獸",
+    "en": "Kangaskhan",
+    "types": [
+      "一般"
+    ],
+    "generation": 1,
+    "speed": 90,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/kangaskhan.webp"
+  },
+  {
+    "id": "kangaskhan-mega",
+    "dex": 115,
+    "name": "超級袋獸",
+    "en": "Mega Kangaskhan",
+    "types": [
+      "一般"
+    ],
+    "generation": 1,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/kangaskhan-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "starmie",
+    "dex": 121,
+    "name": "寶石海星",
+    "en": "Starmie",
+    "types": [
+      "水",
+      "超能力"
+    ],
+    "generation": 1,
+    "speed": 115,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/starmie.webp"
+  },
+  {
+    "id": "starmie-mega",
+    "dex": 121,
+    "name": "超級寶石海星",
+    "en": "Mega Starmie",
+    "types": [
+      "水",
+      "超能力"
+    ],
+    "generation": 1,
+    "speed": 120,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/starmie-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "pinsir",
+    "dex": 127,
+    "name": "凱羅斯",
+    "en": "Pinsir",
+    "types": [
+      "蟲"
+    ],
+    "generation": 1,
+    "speed": 85,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/pinsir.webp"
+  },
+  {
+    "id": "pinsir-mega",
+    "dex": 127,
+    "name": "超級凱羅斯",
+    "en": "Mega Pinsir",
+    "types": [
+      "蟲",
+      "飛行"
+    ],
+    "generation": 1,
+    "speed": 105,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/pinsir-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "tauros",
+    "dex": 128,
+    "name": "肯泰羅",
+    "en": "Tauros",
+    "types": [
+      "一般"
+    ],
+    "generation": 1,
+    "speed": 110,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/tauros.webp"
+  },
+  {
+    "id": "aqua-tauros-paldea",
+    "dex": 128,
+    "name": "肯泰羅（帕底亞的樣子水瀾種）",
+    "en": "Paldean Aqua Tauros",
+    "types": [
+      "格鬥",
+      "水"
+    ],
+    "generation": 9,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/aqua-tauros-paldea.webp"
+  },
+  {
+    "id": "blaze-tauros-paldea",
+    "dex": 128,
+    "name": "肯泰羅（帕底亞的樣子火熾種）",
+    "en": "Paldean Blaze Tauros",
+    "types": [
+      "格鬥",
+      "火"
+    ],
+    "generation": 9,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/blaze-tauros-paldea.webp"
+  },
+  {
+    "id": "tauros-paldea",
+    "dex": 128,
+    "name": "肯泰羅（帕底亞的樣子鬥戰種）",
+    "en": "Paldean Tauros",
+    "types": [
+      "格鬥"
+    ],
+    "generation": 9,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/tauros-paldea.webp"
+  },
+  {
+    "id": "gyarados",
+    "dex": 130,
+    "name": "暴鯉龍",
+    "en": "Gyarados",
+    "types": [
+      "水",
+      "飛行"
+    ],
+    "generation": 1,
+    "speed": 81,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/gyarados.webp"
+  },
+  {
+    "id": "gyarados-mega",
+    "dex": 130,
+    "name": "超級暴鯉龍",
+    "en": "Mega Gyarados",
+    "types": [
+      "水",
+      "惡"
+    ],
+    "generation": 1,
+    "speed": 81,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/gyarados-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "ditto",
+    "dex": 132,
+    "name": "百變怪",
+    "en": "Ditto",
+    "types": [
+      "一般"
+    ],
+    "generation": 1,
+    "speed": 48,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/ditto.webp"
+  },
+  {
+    "id": "vaporeon",
+    "dex": 134,
+    "name": "水伊布",
+    "en": "Vaporeon",
+    "types": [
+      "水"
+    ],
+    "generation": 1,
+    "speed": 65,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/vaporeon.webp"
+  },
+  {
+    "id": "jolteon",
+    "dex": 135,
+    "name": "雷伊布",
+    "en": "Jolteon",
+    "types": [
+      "電"
+    ],
+    "generation": 1,
+    "speed": 130,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/jolteon.webp"
+  },
+  {
+    "id": "flareon",
+    "dex": 136,
+    "name": "火伊布",
+    "en": "Flareon",
+    "types": [
+      "火"
+    ],
+    "generation": 1,
+    "speed": 65,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/flareon.webp"
+  },
+  {
+    "id": "aerodactyl",
+    "dex": 142,
+    "name": "化石翼龍",
+    "en": "Aerodactyl",
+    "types": [
+      "岩石",
+      "飛行"
+    ],
+    "generation": 1,
+    "speed": 130,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/aerodactyl.webp"
+  },
+  {
+    "id": "aerodactyl-mega",
+    "dex": 142,
+    "name": "超級化石翼龍",
+    "en": "Mega Aerodactyl",
+    "types": [
+      "岩石",
+      "飛行"
+    ],
+    "generation": 1,
+    "speed": 150,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/aerodactyl-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "snorlax",
+    "dex": 143,
+    "name": "卡比獸",
+    "en": "Snorlax",
+    "types": [
+      "一般"
+    ],
+    "generation": 1,
+    "speed": 30,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/snorlax.webp"
+  },
+  {
+    "id": "dragonite",
+    "dex": 149,
+    "name": "快龍",
+    "en": "Dragonite",
+    "types": [
+      "龍",
+      "飛行"
+    ],
+    "generation": 1,
+    "speed": 80,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/dragonite.webp"
+  },
+  {
+    "id": "dragonite-mega",
+    "dex": 149,
+    "name": "超級快龍",
+    "en": "Mega Dragonite",
+    "types": [
+      "龍",
+      "飛行"
+    ],
+    "generation": 1,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/dragonite-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "meganium",
+    "dex": 154,
+    "name": "大竺葵",
+    "en": "Meganium",
+    "types": [
+      "草"
+    ],
+    "generation": 2,
+    "speed": 80,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/meganium.webp"
+  },
+  {
+    "id": "meganium-mega",
+    "dex": 154,
+    "name": "超級大竺葵",
+    "en": "Mega Meganium",
+    "types": [
+      "草",
+      "妖精"
+    ],
+    "generation": 2,
+    "speed": 80,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/meganium-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "typhlosion",
+    "dex": 157,
+    "name": "火爆獸",
+    "en": "Typhlosion",
+    "types": [
+      "火"
+    ],
+    "generation": 2,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/typhlosion.webp"
+  },
+  {
+    "id": "typhlosion-hisui",
+    "dex": 157,
+    "name": "火爆獸（洗翠的樣子）",
+    "en": "Hisuian Typhlosion",
+    "types": [
+      "火",
+      "幽靈"
+    ],
+    "generation": 8,
+    "speed": 95,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/typhlosion-hisui.webp"
+  },
+  {
+    "id": "feraligatr",
+    "dex": 160,
+    "name": "大力鱷",
+    "en": "Feraligatr",
+    "types": [
+      "水"
+    ],
+    "generation": 2,
+    "speed": 78,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/feraligatr.webp"
+  },
+  {
+    "id": "feraligatr-mega",
+    "dex": 160,
+    "name": "超級大力鱷",
+    "en": "Mega Feraligatr",
+    "types": [
+      "水",
+      "龍"
+    ],
+    "generation": 2,
+    "speed": 78,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/feraligatr-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "ariados",
+    "dex": 168,
+    "name": "阿利多斯",
+    "en": "Ariados",
+    "types": [
+      "蟲",
+      "毒"
+    ],
+    "generation": 2,
+    "speed": 40,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/ariados.webp"
+  },
+  {
+    "id": "ampharos",
+    "dex": 181,
+    "name": "電龍",
+    "en": "Ampharos",
+    "types": [
+      "電"
+    ],
+    "generation": 2,
+    "speed": 55,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/ampharos.webp"
+  },
+  {
+    "id": "ampharos-mega",
+    "dex": 181,
+    "name": "超級電龍",
+    "en": "Mega Ampharos",
+    "types": [
+      "電",
+      "龍"
+    ],
+    "generation": 2,
+    "speed": 45,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/ampharos-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "azumarill",
+    "dex": 184,
+    "name": "瑪力露麗",
+    "en": "Azumarill",
+    "types": [
+      "水",
+      "妖精"
+    ],
+    "generation": 2,
+    "speed": 50,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/azumarill.webp"
+  },
+  {
+    "id": "politoed",
+    "dex": 186,
+    "name": "蚊香蛙皇",
+    "en": "Politoed",
+    "types": [
+      "水"
+    ],
+    "generation": 2,
+    "speed": 70,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/politoed.webp"
+  },
+  {
+    "id": "espeon",
+    "dex": 196,
+    "name": "太陽伊布",
+    "en": "Espeon",
+    "types": [
+      "超能力"
+    ],
+    "generation": 2,
+    "speed": 110,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/espeon.webp"
+  },
+  {
+    "id": "umbreon",
+    "dex": 197,
+    "name": "月亮伊布",
+    "en": "Umbreon",
+    "types": [
+      "惡"
+    ],
+    "generation": 2,
+    "speed": 65,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/umbreon.webp"
+  },
+  {
+    "id": "slowking",
+    "dex": 199,
+    "name": "呆呆王",
+    "en": "Slowking",
+    "types": [
+      "水",
+      "超能力"
+    ],
+    "generation": 2,
+    "speed": 30,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/slowking.webp"
+  },
+  {
+    "id": "slowking-galar",
+    "dex": 199,
+    "name": "呆呆王（伽勒爾的樣子）",
+    "en": "Galarian Slowking",
+    "types": [
+      "毒",
+      "超能力"
+    ],
+    "generation": 8,
+    "speed": 30,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/slowking-galar.webp"
+  },
+  {
+    "id": "forretress",
+    "dex": 205,
+    "name": "佛烈托斯",
+    "en": "Forretress",
+    "types": [
+      "蟲",
+      "鋼"
+    ],
+    "generation": 2,
+    "speed": 40,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/forretress.webp"
+  },
+  {
+    "id": "steelix",
+    "dex": 208,
+    "name": "大鋼蛇",
+    "en": "Steelix",
+    "types": [
+      "鋼",
+      "地面"
+    ],
+    "generation": 2,
+    "speed": 30,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/steelix.webp"
+  },
+  {
+    "id": "steelix-mega",
+    "dex": 208,
+    "name": "超級大鋼蛇",
+    "en": "Mega Steelix",
+    "types": [
+      "鋼",
+      "地面"
+    ],
+    "generation": 2,
+    "speed": 30,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/steelix-mega.webp",
+    "megaDebut": "ORAS"
+  },
+  {
+    "id": "scizor",
+    "dex": 212,
+    "name": "巨鉗螳螂",
+    "en": "Scizor",
+    "types": [
+      "蟲",
+      "鋼"
+    ],
+    "generation": 2,
+    "speed": 65,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/巨鉗螳螂.png"
+  },
+  {
+    "id": "scizor-mega",
+    "dex": 212,
+    "name": "超級巨鉗螳螂",
+    "en": "Mega Scizor",
+    "types": [
+      "蟲",
+      "鋼"
+    ],
+    "generation": 2,
+    "speed": 75,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/scizor-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "heracross",
+    "dex": 214,
+    "name": "赫拉克羅斯",
+    "en": "Heracross",
+    "types": [
+      "蟲",
+      "格鬥"
+    ],
+    "generation": 2,
+    "speed": 85,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/heracross.webp"
+  },
+  {
+    "id": "heracross-mega",
+    "dex": 214,
+    "name": "超級赫拉克羅斯",
+    "en": "Mega Heracross",
+    "types": [
+      "蟲",
+      "格鬥"
+    ],
+    "generation": 2,
+    "speed": 75,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/heracross-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "skarmory",
+    "dex": 227,
+    "name": "盔甲鳥",
+    "en": "Skarmory",
+    "types": [
+      "鋼",
+      "飛行"
+    ],
+    "generation": 2,
+    "speed": 70,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/skarmory.webp"
+  },
+  {
+    "id": "skarmory-mega",
+    "dex": 227,
+    "name": "超級盔甲鳥",
+    "en": "Mega Skarmory",
+    "types": [
+      "鋼",
+      "飛行"
+    ],
+    "generation": 2,
+    "speed": 110,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/skarmory-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "houndoom",
+    "dex": 229,
+    "name": "黑魯加",
+    "en": "Houndoom",
+    "types": [
+      "惡",
+      "火"
+    ],
+    "generation": 2,
+    "speed": 95,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/houndoom.webp"
+  },
+  {
+    "id": "houndoom-mega",
+    "dex": 229,
+    "name": "超級黑魯加",
+    "en": "Mega Houndoom",
+    "types": [
+      "惡",
+      "火"
+    ],
+    "generation": 2,
+    "speed": 115,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/houndoom-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "tyranitar",
+    "dex": 248,
+    "name": "班基拉斯",
+    "en": "Tyranitar",
+    "types": [
+      "岩石",
+      "惡"
+    ],
+    "generation": 2,
+    "speed": 61,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/班基拉斯.png"
+  },
+  {
+    "id": "tyranitar-mega",
+    "dex": 248,
+    "name": "超級班基拉斯",
+    "en": "Mega Tyranitar",
+    "types": [
+      "岩石",
+      "惡"
+    ],
+    "generation": 2,
+    "speed": 71,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/tyranitar-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "pelipper",
+    "dex": 279,
+    "name": "大嘴鷗",
+    "en": "Pelipper",
+    "types": [
+      "水",
+      "飛行"
+    ],
+    "generation": 3,
+    "speed": 65,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/pelipper.webp"
+  },
+  {
+    "id": "gardevoir",
+    "dex": 282,
+    "name": "沙奈朵",
+    "en": "Gardevoir",
+    "types": [
+      "超能力",
+      "妖精"
+    ],
+    "generation": 3,
+    "speed": 80,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/gardevoir.webp"
+  },
+  {
+    "id": "gardevoir-mega",
+    "dex": 282,
+    "name": "超級沙奈朵",
+    "en": "Mega Gardevoir",
+    "types": [
+      "超能力",
+      "妖精"
+    ],
+    "generation": 3,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/gardevoir-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "sableye",
+    "dex": 302,
+    "name": "勾魂眼",
+    "en": "Sableye",
+    "types": [
+      "惡",
+      "幽靈"
+    ],
+    "generation": 3,
+    "speed": 50,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/sableye.webp"
+  },
+  {
+    "id": "sableye-mega",
+    "dex": 302,
+    "name": "超級勾魂眼",
+    "en": "Mega Sableye",
+    "types": [
+      "惡",
+      "幽靈"
+    ],
+    "generation": 3,
+    "speed": 20,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/sableye-mega.webp",
+    "megaDebut": "ORAS"
+  },
+  {
+    "id": "aggron",
+    "dex": 306,
+    "name": "波士可多拉",
+    "en": "Aggron",
+    "types": [
+      "鋼",
+      "岩石"
+    ],
+    "generation": 3,
+    "speed": 50,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/波士可多拉.png"
+  },
+  {
+    "id": "aggron-mega",
+    "dex": 306,
+    "name": "超級波士可多拉",
+    "en": "Mega Aggron",
+    "types": [
+      "鋼"
+    ],
+    "generation": 3,
+    "speed": 50,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/Mega波士可多拉.png",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "medicham",
+    "dex": 308,
+    "name": "恰雷姆",
+    "en": "Medicham",
+    "types": [
+      "格鬥",
+      "超能力"
+    ],
+    "generation": 3,
+    "speed": 80,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/medicham.webp"
+  },
+  {
+    "id": "medicham-mega",
+    "dex": 308,
+    "name": "超級恰雷姆",
+    "en": "Mega Medicham",
+    "types": [
+      "格鬥",
+      "超能力"
+    ],
+    "generation": 3,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/medicham-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "manectric",
+    "dex": 310,
+    "name": "雷電獸",
+    "en": "Manectric",
+    "types": [
+      "電"
+    ],
+    "generation": 3,
+    "speed": 105,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/manectric.webp"
+  },
+  {
+    "id": "manectric-mega",
+    "dex": 310,
+    "name": "超級雷電獸",
+    "en": "Mega Manectric",
+    "types": [
+      "電"
+    ],
+    "generation": 3,
+    "speed": 135,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/manectric-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "sharpedo",
+    "dex": 319,
+    "name": "巨牙鯊",
+    "en": "Sharpedo",
+    "types": [
+      "水",
+      "惡"
+    ],
+    "generation": 3,
+    "speed": 95,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/sharpedo.webp"
+  },
+  {
+    "id": "sharpedo-mega",
+    "dex": 319,
+    "name": "超級巨牙鯊",
+    "en": "Mega Sharpedo",
+    "types": [
+      "水",
+      "惡"
+    ],
+    "generation": 3,
+    "speed": 105,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/sharpedo-mega.webp",
+    "megaDebut": "ORAS"
+  },
+  {
+    "id": "camerupt",
+    "dex": 323,
+    "name": "噴火駝",
+    "en": "Camerupt",
+    "types": [
+      "火",
+      "地面"
+    ],
+    "generation": 3,
+    "speed": 40,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/camerupt.webp"
+  },
+  {
+    "id": "camerupt-mega",
+    "dex": 323,
+    "name": "超級噴火駝",
+    "en": "Mega Camerupt",
+    "types": [
+      "火",
+      "地面"
+    ],
+    "generation": 3,
+    "speed": 20,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/camerupt-mega.webp",
+    "megaDebut": "ORAS"
+  },
+  {
+    "id": "torkoal",
+    "dex": 324,
+    "name": "煤炭龜",
+    "en": "Torkoal",
+    "types": [
+      "火"
+    ],
+    "generation": 3,
+    "speed": 20,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/torkoal.webp"
+  },
+  {
+    "id": "altaria",
+    "dex": 334,
+    "name": "七夕青鳥",
+    "en": "Altaria",
+    "types": [
+      "龍",
+      "飛行"
+    ],
+    "generation": 3,
+    "speed": 80,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/altaria.webp"
+  },
+  {
+    "id": "altaria-mega",
+    "dex": 334,
+    "name": "超級七夕青鳥",
+    "en": "Mega Altaria",
+    "types": [
+      "龍",
+      "妖精"
+    ],
+    "generation": 3,
+    "speed": 80,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/altaria-mega.webp",
+    "megaDebut": "ORAS"
+  },
+  {
+    "id": "milotic",
+    "dex": 350,
+    "name": "美納斯",
+    "en": "Milotic",
+    "types": [
+      "水"
+    ],
+    "generation": 3,
+    "speed": 81,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/milotic.webp"
+  },
+  {
+    "id": "castform",
+    "dex": 351,
+    "name": "飄浮泡泡",
+    "en": "Castform",
+    "types": [
+      "一般"
+    ],
+    "generation": 3,
+    "speed": 70,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/castform.webp"
+  },
+  {
+    "id": "banette",
+    "dex": 354,
+    "name": "詛咒娃娃",
+    "en": "Banette",
+    "types": [
+      "幽靈"
+    ],
+    "generation": 3,
+    "speed": 65,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/banette.webp"
+  },
+  {
+    "id": "banette-mega",
+    "dex": 354,
+    "name": "超級詛咒娃娃",
+    "en": "Mega Banette",
+    "types": [
+      "幽靈"
+    ],
+    "generation": 3,
+    "speed": 75,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/banette-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "chimecho",
+    "dex": 358,
+    "name": "風鈴鈴",
+    "en": "Chimecho",
+    "types": [
+      "超能力"
+    ],
+    "generation": 3,
+    "speed": 65,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/chimecho.webp"
+  },
+  {
+    "id": "chimecho-mega",
+    "dex": 358,
+    "name": "超級風鈴鈴",
+    "en": "Mega Chimecho",
+    "types": [
+      "超能力",
+      "鋼"
+    ],
+    "generation": 3,
+    "speed": 65,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/chimecho-mega.webp",
+    "megaDebut": "ZA DLC"
+  },
+  {
+    "id": "absol",
+    "dex": 359,
+    "name": "阿勃梭魯",
+    "en": "Absol",
+    "types": [
+      "惡"
+    ],
+    "generation": 3,
+    "speed": 75,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/absol.webp"
+  },
+  {
+    "id": "absol-mega",
+    "dex": 359,
+    "name": "超級阿勃梭魯",
+    "en": "Mega Absol",
+    "types": [
+      "惡"
+    ],
+    "generation": 3,
+    "speed": 115,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/absol-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "absol-mega-z",
+    "dex": 359,
+    "name": "超級阿勃梭魯Ｚ",
+    "en": "Mega Absol Z",
+    "types": [
+      "惡",
+      "幽靈"
+    ],
+    "generation": 3,
+    "speed": 151,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/absol-mega-z.webp",
+    "megaDebut": "ZA DLC"
+  },
+  {
+    "id": "glalie",
+    "dex": 362,
+    "name": "冰鬼護",
+    "en": "Glalie",
+    "types": [
+      "冰"
+    ],
+    "generation": 3,
+    "speed": 80,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/glalie.webp"
+  },
+  {
+    "id": "glalie-mega",
+    "dex": 362,
+    "name": "超級冰鬼護",
+    "en": "Mega Glalie",
+    "types": [
+      "冰"
+    ],
+    "generation": 3,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/glalie-mega.webp",
+    "megaDebut": "ORAS"
+  },
+  {
+    "id": "torterra",
+    "dex": 389,
+    "name": "土台龜",
+    "en": "Torterra",
+    "types": [
+      "草",
+      "地面"
+    ],
+    "generation": 4,
+    "speed": 56,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/torterra.webp"
+  },
+  {
+    "id": "infernape",
+    "dex": 392,
+    "name": "烈焰猴",
+    "en": "Infernape",
+    "types": [
+      "火",
+      "格鬥"
+    ],
+    "generation": 4,
+    "speed": 108,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/infernape.webp"
+  },
+  {
+    "id": "empoleon",
+    "dex": 395,
+    "name": "帝王拿波",
+    "en": "Empoleon",
+    "types": [
+      "水",
+      "鋼"
+    ],
+    "generation": 4,
+    "speed": 60,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/empoleon.webp"
+  },
+  {
+    "id": "luxray",
+    "dex": 405,
+    "name": "倫琴貓",
+    "en": "Luxray",
+    "types": [
+      "電"
+    ],
+    "generation": 4,
+    "speed": 70,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/luxray.webp"
+  },
+  {
+    "id": "roserade",
+    "dex": 407,
+    "name": "羅絲雷朵",
+    "en": "Roserade",
+    "types": [
+      "草",
+      "毒"
+    ],
+    "generation": 4,
+    "speed": 90,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/roserade.webp"
+  },
+  {
+    "id": "rampardos",
+    "dex": 409,
+    "name": "戰槌龍",
+    "en": "Rampardos",
+    "types": [
+      "岩石"
+    ],
+    "generation": 4,
+    "speed": 58,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/rampardos.webp"
+  },
+  {
+    "id": "bastiodon",
+    "dex": 411,
+    "name": "護城龍",
+    "en": "Bastiodon",
+    "types": [
+      "岩石",
+      "鋼"
+    ],
+    "generation": 4,
+    "speed": 30,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/bastiodon.webp"
+  },
+  {
+    "id": "lopunny",
+    "dex": 428,
+    "name": "長耳兔",
+    "en": "Lopunny",
+    "types": [
+      "一般"
+    ],
+    "generation": 4,
+    "speed": 105,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/lopunny.webp"
+  },
+  {
+    "id": "lopunny-mega",
+    "dex": 428,
+    "name": "超級長耳兔",
+    "en": "Mega Lopunny",
+    "types": [
+      "一般",
+      "格鬥"
+    ],
+    "generation": 4,
+    "speed": 135,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/lopunny-mega.webp",
+    "megaDebut": "ORAS"
+  },
+  {
+    "id": "spiritomb",
+    "dex": 442,
+    "name": "花岩怪",
+    "en": "Spiritomb",
+    "types": [
+      "幽靈",
+      "惡"
+    ],
+    "generation": 4,
+    "speed": 35,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/spiritomb.webp"
+  },
+  {
+    "id": "garchomp",
+    "dex": 445,
+    "name": "烈咬陸鯊",
+    "en": "Garchomp",
+    "types": [
+      "龍",
+      "地面"
+    ],
+    "generation": 4,
+    "speed": 102,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/烈咬陸鯊.png"
+  },
+  {
+    "id": "garchomp-mega",
+    "dex": 445,
+    "name": "超級烈咬陸鯊",
+    "en": "Mega Garchomp",
+    "types": [
+      "龍",
+      "地面"
+    ],
+    "generation": 4,
+    "speed": 92,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/Mega烈咬陸鯊.png",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "garchomp-mega-z",
+    "dex": 445,
+    "name": "超級烈咬陸鯊Z",
+    "en": "Mega Garchomp Z",
+    "types": [
+      "龍"
+    ],
+    "generation": 4,
+    "speed": 151,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/Mega烈咬陸鯊Z.png",
+    "megaDebut": "ZA DLC"
+  },
+  {
+    "id": "lucario",
+    "dex": 448,
+    "name": "路卡利歐",
+    "en": "Lucario",
+    "types": [
+      "格鬥",
+      "鋼"
+    ],
+    "generation": 4,
+    "speed": 90,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/lucario.webp"
+  },
+  {
+    "id": "lucario-mega",
+    "dex": 448,
+    "name": "超級路卡利歐",
+    "en": "Mega Lucario",
+    "types": [
+      "格鬥",
+      "鋼"
+    ],
+    "generation": 4,
+    "speed": 112,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/lucario-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "lucario-mega-z",
+    "dex": 448,
+    "name": "超級路卡利歐Ｚ",
+    "en": "Mega Lucario Z",
+    "types": [
+      "格鬥",
+      "鋼"
+    ],
+    "generation": 4,
+    "speed": 151,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/lucario-mega-z.webp",
+    "megaDebut": "ZA DLC"
+  },
+  {
+    "id": "hippowdon",
+    "dex": 450,
+    "name": "河馬獸",
+    "en": "Hippowdon",
+    "types": [
+      "地面"
+    ],
+    "generation": 4,
+    "speed": 47,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/hippowdon.webp"
+  },
+  {
+    "id": "toxicroak",
+    "dex": 454,
+    "name": "毒骷蛙",
+    "en": "Toxicroak",
+    "types": [
+      "毒",
+      "格鬥"
+    ],
+    "generation": 4,
+    "speed": 85,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/toxicroak.webp"
+  },
+  {
+    "id": "abomasnow",
+    "dex": 460,
+    "name": "暴雪王",
+    "en": "Abomasnow",
+    "types": [
+      "草",
+      "冰"
+    ],
+    "generation": 4,
+    "speed": 60,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/abomasnow.webp"
+  },
+  {
+    "id": "abomasnow-mega",
+    "dex": 460,
+    "name": "超級暴雪王",
+    "en": "Mega Abomasnow",
+    "types": [
+      "草",
+      "冰"
+    ],
+    "generation": 4,
+    "speed": 30,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/abomasnow-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "weavile",
+    "dex": 461,
+    "name": "瑪狃拉",
+    "en": "Weavile",
+    "types": [
+      "惡",
+      "冰"
+    ],
+    "generation": 4,
+    "speed": 125,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/weavile.webp"
+  },
+  {
+    "id": "rhyperior",
+    "dex": 464,
+    "name": "超甲狂犀",
+    "en": "Rhyperior",
+    "types": [
+      "地面",
+      "岩石"
+    ],
+    "generation": 4,
+    "speed": 40,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/rhyperior.webp"
+  },
+  {
+    "id": "leafeon",
+    "dex": 470,
+    "name": "葉伊布",
+    "en": "Leafeon",
+    "types": [
+      "草"
+    ],
+    "generation": 4,
+    "speed": 95,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/leafeon.webp"
+  },
+  {
+    "id": "glaceon",
+    "dex": 471,
+    "name": "冰伊布",
+    "en": "Glaceon",
+    "types": [
+      "冰"
+    ],
+    "generation": 4,
+    "speed": 65,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/glaceon.webp"
+  },
+  {
+    "id": "gliscor",
+    "dex": 472,
+    "name": "天蠍王",
+    "en": "Gliscor",
+    "types": [
+      "地面",
+      "飛行"
+    ],
+    "generation": 4,
+    "speed": 95,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/gliscor.webp"
+  },
+  {
+    "id": "mamoswine",
+    "dex": 473,
+    "name": "象牙豬",
+    "en": "Mamoswine",
+    "types": [
+      "冰",
+      "地面"
+    ],
+    "generation": 4,
+    "speed": 80,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/mamoswine.webp"
+  },
+  {
+    "id": "gallade",
+    "dex": 475,
+    "name": "艾路雷朵",
+    "en": "Gallade",
+    "types": [
+      "超能力",
+      "格鬥"
+    ],
+    "generation": 4,
+    "speed": 80,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/gallade.webp"
+  },
+  {
+    "id": "gallade-mega",
+    "dex": 475,
+    "name": "超級艾路雷朵",
+    "en": "Mega Gallade",
+    "types": [
+      "超能力",
+      "格鬥"
+    ],
+    "generation": 4,
+    "speed": 110,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/gallade-mega.webp",
+    "megaDebut": "ORAS"
+  },
+  {
+    "id": "froslass",
+    "dex": 478,
+    "name": "雪妖女",
+    "en": "Froslass",
+    "types": [
+      "冰",
+      "幽靈"
+    ],
+    "generation": 4,
+    "speed": 110,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/雪妖女.png"
+  },
+  {
+    "id": "froslass-mega",
+    "dex": 478,
+    "name": "超級雪妖女",
+    "en": "Mega Froslass",
+    "types": [
+      "冰",
+      "幽靈"
+    ],
+    "generation": 4,
+    "speed": 120,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/Mega雪妖女.png",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "rotom",
+    "dex": 479,
+    "name": "洛托姆",
+    "en": "Rotom",
+    "types": [
+      "電",
+      "幽靈"
+    ],
+    "generation": 4,
+    "speed": 91,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/rotom.webp"
+  },
+  {
+    "id": "rotom-frost",
+    "dex": 479,
+    "name": "結霜洛托姆",
+    "en": "Frost Rotom",
+    "types": [
+      "電",
+      "冰"
+    ],
+    "generation": 4,
+    "speed": 86,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/rotom-frost.webp"
+  },
+  {
+    "id": "rotom-fan",
+    "dex": 479,
+    "name": "旋轉洛托姆",
+    "en": "Fan Rotom",
+    "types": [
+      "電",
+      "飛行"
+    ],
+    "generation": 4,
+    "speed": 86,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/rotom-fan.webp"
+  },
+  {
+    "id": "rotom-heat",
+    "dex": 479,
+    "name": "加熱洛托姆",
+    "en": "Heat Rotom",
+    "types": [
+      "電",
+      "火"
+    ],
+    "generation": 4,
+    "speed": 86,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/rotom-heat.webp"
+  },
+  {
+    "id": "rotom-mow",
+    "dex": 479,
+    "name": "切割洛托姆",
+    "en": "Mow Rotom",
+    "types": [
+      "電",
+      "草"
+    ],
+    "generation": 4,
+    "speed": 86,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/rotom-mow.webp"
+  },
+  {
+    "id": "rotom-wash",
+    "dex": 479,
+    "name": "清洗洛托姆",
+    "en": "Wash Rotom",
+    "types": [
+      "電",
+      "水"
+    ],
+    "generation": 4,
+    "speed": 86,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/rotom-wash.webp"
+  },
+  {
+    "id": "serperior",
+    "dex": 497,
+    "name": "君主蛇",
+    "en": "Serperior",
+    "types": [
+      "草"
+    ],
+    "generation": 5,
+    "speed": 113,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/serperior.webp"
+  },
+  {
+    "id": "emboar",
+    "dex": 500,
+    "name": "炎武王",
+    "en": "Emboar",
+    "types": [
+      "火",
+      "格鬥"
+    ],
+    "generation": 5,
+    "speed": 65,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/emboar.webp"
+  },
+  {
+    "id": "emboar-mega",
+    "dex": 500,
+    "name": "超級炎武王",
+    "en": "Mega Emboar",
+    "types": [
+      "火",
+      "格鬥"
+    ],
+    "generation": 5,
+    "speed": 75,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/emboar-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "samurott",
+    "dex": 503,
+    "name": "大劍鬼",
+    "en": "Samurott",
+    "types": [
+      "水"
+    ],
+    "generation": 5,
+    "speed": 70,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/samurott.webp"
+  },
+  {
+    "id": "samurott-hisui",
+    "dex": 503,
+    "name": "大劍鬼（洗翠的樣子）",
+    "en": "Hisuian Samurott",
+    "types": [
+      "水",
+      "惡"
+    ],
+    "generation": 8,
+    "speed": 85,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/samurott-hisui.webp"
+  },
+  {
+    "id": "watchog",
+    "dex": 505,
+    "name": "步哨鼠",
+    "en": "Watchog",
+    "types": [
+      "一般"
+    ],
+    "generation": 5,
+    "speed": 77,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/watchog.webp"
+  },
+  {
+    "id": "liepard",
+    "dex": 510,
+    "name": "酷豹",
+    "en": "Liepard",
+    "types": [
+      "惡"
+    ],
+    "generation": 5,
+    "speed": 106,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/liepard.webp"
+  },
+  {
+    "id": "simisage",
+    "dex": 512,
+    "name": "花椰猿",
+    "en": "Simisage",
+    "types": [
+      "草"
+    ],
+    "generation": 5,
+    "speed": 101,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/simisage.webp"
+  },
+  {
+    "id": "simisear",
+    "dex": 514,
+    "name": "爆香猿",
+    "en": "Simisear",
+    "types": [
+      "火"
+    ],
+    "generation": 5,
+    "speed": 101,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/simisear.webp"
+  },
+  {
+    "id": "simipour",
+    "dex": 516,
+    "name": "冷水猿",
+    "en": "Simipour",
+    "types": [
+      "水"
+    ],
+    "generation": 5,
+    "speed": 101,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/simipour.webp"
+  },
+  {
+    "id": "excadrill",
+    "dex": 530,
+    "name": "龍頭地鼠",
+    "en": "Excadrill",
+    "types": [
+      "地面",
+      "鋼"
+    ],
+    "generation": 5,
+    "speed": 88,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/excadrill.webp"
+  },
+  {
+    "id": "excadrill-mega",
+    "dex": 530,
+    "name": "超級龍頭地鼠",
+    "en": "Mega Excadrill",
+    "types": [
+      "地面",
+      "鋼"
+    ],
+    "generation": 5,
+    "speed": 103,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/excadrill-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "audino",
+    "dex": 531,
+    "name": "差不多娃娃",
+    "en": "Audino",
+    "types": [
+      "一般"
+    ],
+    "generation": 5,
+    "speed": 50,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/audino.webp"
+  },
+  {
+    "id": "audino-mega",
+    "dex": 531,
+    "name": "超級差不多娃娃",
+    "en": "Mega Audino",
+    "types": [
+      "一般",
+      "妖精"
+    ],
+    "generation": 5,
+    "speed": 50,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/audino-mega.webp",
+    "megaDebut": "ORAS"
+  },
+  {
+    "id": "conkeldurr",
+    "dex": 534,
+    "name": "修建老匠",
+    "en": "Conkeldurr",
+    "types": [
+      "格鬥"
+    ],
+    "generation": 5,
+    "speed": 45,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/conkeldurr.webp"
+  },
+  {
+    "id": "whimsicott",
+    "dex": 547,
+    "name": "風妖精",
+    "en": "Whimsicott",
+    "types": [
+      "草",
+      "妖精"
+    ],
+    "generation": 5,
+    "speed": 116,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/whimsicott.webp"
+  },
+  {
+    "id": "krookodile",
+    "dex": 553,
+    "name": "流氓鱷",
+    "en": "Krookodile",
+    "types": [
+      "地面",
+      "惡"
+    ],
+    "generation": 5,
+    "speed": 92,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/krookodile.webp"
+  },
+  {
+    "id": "cofagrigus",
+    "dex": 563,
+    "name": "死神棺",
+    "en": "Cofagrigus",
+    "types": [
+      "幽靈"
+    ],
+    "generation": 5,
+    "speed": 30,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/cofagrigus.webp"
+  },
+  {
+    "id": "garbodor",
+    "dex": 569,
+    "name": "灰塵山",
+    "en": "Garbodor",
+    "types": [
+      "毒"
+    ],
+    "generation": 5,
+    "speed": 75,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/garbodor.webp"
+  },
+  {
+    "id": "zoroark",
+    "dex": 571,
+    "name": "索羅亞克",
+    "en": "Zoroark",
+    "types": [
+      "惡"
+    ],
+    "generation": 5,
+    "speed": 105,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/zoroark.webp"
+  },
+  {
+    "id": "zoroark-hisui",
+    "dex": 571,
+    "name": "索羅亞克（洗翠的樣子）",
+    "en": "Hisuian Zoroark",
+    "types": [
+      "一般",
+      "幽靈"
+    ],
+    "generation": 8,
+    "speed": 110,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/zoroark-hisui.webp"
+  },
+  {
+    "id": "reuniclus",
+    "dex": 579,
+    "name": "人造細胞卵",
+    "en": "Reuniclus",
+    "types": [
+      "超能力"
+    ],
+    "generation": 5,
+    "speed": 30,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/reuniclus.webp"
+  },
+  {
+    "id": "vanilluxe",
+    "dex": 584,
+    "name": "雙倍多多冰",
+    "en": "Vanilluxe",
+    "types": [
+      "冰"
+    ],
+    "generation": 5,
+    "speed": 79,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/vanilluxe.webp"
+  },
+  {
+    "id": "emolga",
+    "dex": 587,
+    "name": "電飛鼠",
+    "en": "Emolga",
+    "types": [
+      "電",
+      "飛行"
+    ],
+    "generation": 5,
+    "speed": 103,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/emolga.webp"
+  },
+  {
+    "id": "chandelure",
+    "dex": 609,
+    "name": "水晶燈火靈",
+    "en": "Chandelure",
+    "types": [
+      "幽靈",
+      "火"
+    ],
+    "generation": 5,
+    "speed": 80,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/水晶燈火靈.png"
+  },
+  {
+    "id": "chandelure-mega",
+    "dex": 609,
+    "name": "超級水晶燈火靈",
+    "en": "Mega Chandelure",
+    "types": [
+      "幽靈",
+      "火"
+    ],
+    "generation": 5,
+    "speed": 90,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/chandelure-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "beartic",
+    "dex": 614,
+    "name": "凍原熊",
+    "en": "Beartic",
+    "types": [
+      "冰"
+    ],
+    "generation": 5,
+    "speed": 50,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/beartic.webp"
+  },
+  {
+    "id": "stunfisk",
+    "dex": 618,
+    "name": "泥巴魚",
+    "en": "Stunfisk",
+    "types": [
+      "地面",
+      "電"
+    ],
+    "generation": 5,
+    "speed": 32,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/stunfisk.webp"
+  },
+  {
+    "id": "stunfisk-galar",
+    "dex": 618,
+    "name": "泥巴魚（伽勒爾的樣子）",
+    "en": "Galarian Stunfisk",
+    "types": [
+      "地面",
+      "鋼"
+    ],
+    "generation": 8,
+    "speed": 32,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/stunfisk-galar.webp"
+  },
+  {
+    "id": "golurk",
+    "dex": 623,
+    "name": "泥偶巨人",
+    "en": "Golurk",
+    "types": [
+      "地面",
+      "幽靈"
+    ],
+    "generation": 5,
+    "speed": 55,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/golurk.webp"
+  },
+  {
+    "id": "golurk-mega",
+    "dex": 623,
+    "name": "超級泥偶巨人",
+    "en": "Mega Golurk",
+    "types": [
+      "地面",
+      "幽靈"
+    ],
+    "generation": 5,
+    "speed": 55,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/golurk-mega.webp",
+    "megaDebut": "ZA DLC"
+  },
+  {
+    "id": "hydreigon",
+    "dex": 635,
+    "name": "三首惡龍",
+    "en": "Hydreigon",
+    "types": [
+      "惡",
+      "龍"
+    ],
+    "generation": 5,
+    "speed": 98,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/hydreigon.webp"
+  },
+  {
+    "id": "volcarona",
+    "dex": 637,
+    "name": "火神蛾",
+    "en": "Volcarona",
+    "types": [
+      "蟲",
+      "火"
+    ],
+    "generation": 5,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/volcarona.webp"
+  },
+  {
+    "id": "chesnaught",
+    "dex": 652,
+    "name": "布里卡隆",
+    "en": "Chesnaught",
+    "types": [
+      "草",
+      "格鬥"
+    ],
+    "generation": 6,
+    "speed": 64,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/chesnaught.webp"
+  },
+  {
+    "id": "chesnaught-mega",
+    "dex": 652,
+    "name": "超級布里卡隆",
+    "en": "Mega Chesnaught",
+    "types": [
+      "草",
+      "格鬥"
+    ],
+    "generation": 6,
+    "speed": 44,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/chesnaught-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "delphox",
+    "dex": 655,
+    "name": "妖火紅狐",
+    "en": "Delphox",
+    "types": [
+      "火",
+      "超能力"
+    ],
+    "generation": 6,
+    "speed": 104,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/delphox.webp"
+  },
+  {
+    "id": "delphox-mega",
+    "dex": 655,
+    "name": "超級妖火紅狐",
+    "en": "Mega Delphox",
+    "types": [
+      "火",
+      "超能力"
+    ],
+    "generation": 6,
+    "speed": 134,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/delphox-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "greninja",
+    "dex": 658,
+    "name": "甲賀忍蛙",
+    "en": "Greninja",
+    "types": [
+      "水",
+      "惡"
+    ],
+    "generation": 6,
+    "speed": 122,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/greninja.webp"
+  },
+  {
+    "id": "greninja-mega",
+    "dex": 658,
+    "name": "超級甲賀忍蛙",
+    "en": "Mega Greninja",
+    "types": [
+      "水",
+      "惡"
+    ],
+    "generation": 6,
+    "speed": 142,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/greninja-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "diggersby",
+    "dex": 660,
+    "name": "掘地兔",
+    "en": "Diggersby",
+    "types": [
+      "一般",
+      "地面"
+    ],
+    "generation": 6,
+    "speed": 78,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/diggersby.webp"
+  },
+  {
+    "id": "talonflame",
+    "dex": 663,
+    "name": "烈箭鷹",
+    "en": "Talonflame",
+    "types": [
+      "火",
+      "飛行"
+    ],
+    "generation": 6,
+    "speed": 126,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/talonflame.webp"
+  },
+  {
+    "id": "vivillon-meadow",
+    "dex": 666,
+    "name": "彩粉蝶",
+    "en": "Vivillon",
+    "types": [
+      "蟲",
+      "飛行"
+    ],
+    "generation": 6,
+    "speed": 89,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/vivillon-meadow.webp"
+  },
+  {
+    "id": "eternal-flower-floette",
+    "dex": 670,
+    "name": "花葉蒂（永恆之花）",
+    "en": "Eternal Flower Floette",
+    "types": [
+      "妖精"
+    ],
+    "generation": 6,
+    "speed": 92,
+    "fullyEvolved": false,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/eternal-flower-floette.webp"
+  },
+  {
+    "id": "floette-mega",
+    "dex": 670,
+    "name": "超級花葉蒂",
+    "en": "Mega Floette",
+    "types": [
+      "妖精"
+    ],
+    "generation": 6,
+    "speed": 102,
+    "fullyEvolved": false,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/floette-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "florges-red",
+    "dex": 671,
+    "name": "花潔夫人",
+    "en": "Florges",
+    "types": [
+      "妖精"
+    ],
+    "generation": 6,
+    "speed": 75,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/florges-red.webp"
+  },
+  {
+    "id": "pangoro",
+    "dex": 675,
+    "name": "流氓熊貓",
+    "en": "Pangoro",
+    "types": [
+      "格鬥",
+      "惡"
+    ],
+    "generation": 6,
+    "speed": 58,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/pangoro.webp"
+  },
+  {
+    "id": "furfrou-natural",
+    "dex": 676,
+    "name": "多麗米亞",
+    "en": "Furfrou",
+    "types": [
+      "一般"
+    ],
+    "generation": 6,
+    "speed": 102,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/furfrou-natural.webp"
+  },
+  {
+    "id": "meowstic",
+    "dex": 678,
+    "name": "超能妙喵（雄性的樣子）",
+    "en": "Meowstic",
+    "types": [
+      "超能力"
+    ],
+    "generation": 6,
+    "speed": 104,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/meowstic.webp"
+  },
+  {
+    "id": "female-meowstic",
+    "dex": 678,
+    "name": "超能妙喵（雌性的樣子）",
+    "en": "Female Meowstic",
+    "types": [
+      "超能力"
+    ],
+    "generation": 6,
+    "speed": 104,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/female-meowstic.webp"
+  },
+  {
+    "id": "meowstic-mega",
+    "dex": 678,
+    "name": "超級超能妙喵",
+    "en": "Mega Meowstic",
+    "types": [
+      "超能力"
+    ],
+    "generation": 6,
+    "speed": 124,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/meowstic-mega.webp",
+    "megaDebut": "ZA DLC"
+  },
+  {
+    "id": "aegislash-shield",
+    "dex": 681,
+    "name": "堅盾劍怪（盾牌形態）",
+    "en": "Aegislash Shield",
+    "types": [
+      "鋼",
+      "幽靈"
+    ],
+    "generation": 6,
+    "speed": 60,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/aegislash-shield.webp"
+  },
+  {
+    "id": "aegislash-blade",
+    "dex": 681,
+    "name": "堅盾劍怪（刀劍形態）",
+    "en": "Aegislash Blade",
+    "types": [
+      "鋼",
+      "幽靈"
+    ],
+    "generation": 6,
+    "speed": 60,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/aegislash-blade.webp"
+  },
+  {
+    "id": "aromatisse",
+    "dex": 683,
+    "name": "芳香精",
+    "en": "Aromatisse",
+    "types": [
+      "妖精"
+    ],
+    "generation": 6,
+    "speed": 29,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/aromatisse.webp"
+  },
+  {
+    "id": "slurpuff",
+    "dex": 685,
+    "name": "胖甜妮",
+    "en": "Slurpuff",
+    "types": [
+      "妖精"
+    ],
+    "generation": 6,
+    "speed": 72,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/slurpuff.webp"
+  },
+  {
+    "id": "clawitzer",
+    "dex": 693,
+    "name": "鋼炮臂蝦",
+    "en": "Clawitzer",
+    "types": [
+      "水"
+    ],
+    "generation": 6,
+    "speed": 59,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/clawitzer.webp"
+  },
+  {
+    "id": "heliolisk",
+    "dex": 695,
+    "name": "光電傘蜥",
+    "en": "Heliolisk",
+    "types": [
+      "電",
+      "一般"
+    ],
+    "generation": 6,
+    "speed": 109,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/heliolisk.webp"
+  },
+  {
+    "id": "tyrantrum",
+    "dex": 697,
+    "name": "怪顎龍",
+    "en": "Tyrantrum",
+    "types": [
+      "岩石",
+      "龍"
+    ],
+    "generation": 6,
+    "speed": 71,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/tyrantrum.webp"
+  },
+  {
+    "id": "aurorus",
+    "dex": 699,
+    "name": "冰雪巨龍",
+    "en": "Aurorus",
+    "types": [
+      "岩石",
+      "冰"
+    ],
+    "generation": 6,
+    "speed": 58,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/aurorus.webp"
+  },
+  {
+    "id": "sylveon",
+    "dex": 700,
+    "name": "仙子伊布",
+    "en": "Sylveon",
+    "types": [
+      "妖精"
+    ],
+    "generation": 6,
+    "speed": 60,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/sylveon.webp"
+  },
+  {
+    "id": "hawlucha",
+    "dex": 701,
+    "name": "摔角鷹人",
+    "en": "Hawlucha",
+    "types": [
+      "格鬥",
+      "飛行"
+    ],
+    "generation": 6,
+    "speed": 118,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/摔角鷹人.png"
+  },
+  {
+    "id": "hawlucha-mega",
+    "dex": 701,
+    "name": "超級摔角鷹人",
+    "en": "Mega Hawlucha",
+    "types": [
+      "格鬥",
+      "飛行"
+    ],
+    "generation": 6,
+    "speed": 118,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/Mega摔角鷹人.png",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "dedenne",
+    "dex": 702,
+    "name": "咚咚鼠",
+    "en": "Dedenne",
+    "types": [
+      "電",
+      "妖精"
+    ],
+    "generation": 6,
+    "speed": 101,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/dedenne.webp"
+  },
+  {
+    "id": "goodra",
+    "dex": 706,
+    "name": "黏美龍",
+    "en": "Goodra",
+    "types": [
+      "龍"
+    ],
+    "generation": 6,
+    "speed": 80,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/goodra.webp"
+  },
+  {
+    "id": "goodra-hisui",
+    "dex": 706,
+    "name": "黏美龍（洗翠的樣子）",
+    "en": "Hisuian Goodra",
+    "types": [
+      "鋼",
+      "龍"
+    ],
+    "generation": 8,
+    "speed": 60,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/goodra-hisui.webp"
+  },
+  {
+    "id": "klefki",
+    "dex": 707,
+    "name": "鑰圈兒",
+    "en": "Klefki",
+    "types": [
+      "鋼",
+      "妖精"
+    ],
+    "generation": 6,
+    "speed": 75,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/klefki.webp"
+  },
+  {
+    "id": "trevenant",
+    "dex": 709,
+    "name": "朽木妖",
+    "en": "Trevenant",
+    "types": [
+      "幽靈",
+      "草"
+    ],
+    "generation": 6,
+    "speed": 56,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/trevenant.webp"
+  },
+  {
+    "id": "gourgeist-average",
+    "dex": 711,
+    "name": "南瓜怪人（中顆種）",
+    "en": "Gourgeist Average",
+    "types": [
+      "幽靈",
+      "草"
+    ],
+    "generation": 6,
+    "speed": 54,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/gourgeist-average.webp"
+  },
+  {
+    "id": "gourgeist-super",
+    "dex": 711,
+    "name": "南瓜怪人（巨顆種）",
+    "en": "Gourgeist Super",
+    "types": [
+      "幽靈",
+      "草"
+    ],
+    "generation": 6,
+    "speed": 44,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/gourgeist-super.webp"
+  },
+  {
+    "id": "gourgeist-large",
+    "dex": 711,
+    "name": "南瓜怪人（大顆種）",
+    "en": "Gourgeist Large",
+    "types": [
+      "幽靈",
+      "草"
+    ],
+    "generation": 6,
+    "speed": 49,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/gourgeist-large.webp"
+  },
+  {
+    "id": "gourgeist-small",
+    "dex": 711,
+    "name": "南瓜怪人（小顆種）",
+    "en": "Gourgeist Small",
+    "types": [
+      "幽靈",
+      "草"
+    ],
+    "generation": 6,
+    "speed": 59,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/gourgeist-small.webp"
+  },
+  {
+    "id": "avalugg",
+    "dex": 713,
+    "name": "冰岩怪",
+    "en": "Avalugg",
+    "types": [
+      "冰"
+    ],
+    "generation": 6,
+    "speed": 28,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/avalugg.webp"
+  },
+  {
+    "id": "avalugg-hisui",
+    "dex": 713,
+    "name": "冰岩怪（洗翠的樣子）",
+    "en": "Hisuian Avalugg",
+    "types": [
+      "冰",
+      "岩石"
+    ],
+    "generation": 8,
+    "speed": 38,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/avalugg-hisui.webp"
+  },
+  {
+    "id": "noivern",
+    "dex": 715,
+    "name": "音波龍",
+    "en": "Noivern",
+    "types": [
+      "飛行",
+      "龍"
+    ],
+    "generation": 6,
+    "speed": 123,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/noivern.webp"
+  },
+  {
+    "id": "decidueye",
+    "dex": 724,
+    "name": "狙射樹梟",
+    "en": "Decidueye",
+    "types": [
+      "草",
+      "幽靈"
+    ],
+    "generation": 7,
+    "speed": 70,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/decidueye.webp"
+  },
+  {
+    "id": "decidueye-hisui",
+    "dex": 724,
+    "name": "狙射樹梟（洗翠的樣子）",
+    "en": "Hisuian Decidueye",
+    "types": [
+      "草",
+      "格鬥"
+    ],
+    "generation": 8,
+    "speed": 60,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/decidueye-hisui.webp"
+  },
+  {
+    "id": "incineroar",
+    "dex": 727,
+    "name": "熾焰咆哮虎",
+    "en": "Incineroar",
+    "types": [
+      "火",
+      "惡"
+    ],
+    "generation": 7,
+    "speed": 60,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/熾焰咆哮虎.png"
+  },
+  {
+    "id": "primarina",
+    "dex": 730,
+    "name": "西獅海壬",
+    "en": "Primarina",
+    "types": [
+      "水",
+      "妖精"
+    ],
+    "generation": 7,
+    "speed": 60,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/primarina.webp"
+  },
+  {
+    "id": "toucannon",
+    "dex": 733,
+    "name": "銃嘴大鳥",
+    "en": "Toucannon",
+    "types": [
+      "一般",
+      "飛行"
+    ],
+    "generation": 7,
+    "speed": 60,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/toucannon.webp"
+  },
+  {
+    "id": "crabominable",
+    "dex": 740,
+    "name": "好勝毛蟹",
+    "en": "Crabominable",
+    "types": [
+      "格鬥",
+      "冰"
+    ],
+    "generation": 7,
+    "speed": 43,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/crabominable.webp"
+  },
+  {
+    "id": "crabominable-mega",
+    "dex": 740,
+    "name": "超級好勝毛蟹",
+    "en": "Mega Crabominable",
+    "types": [
+      "格鬥",
+      "冰"
+    ],
+    "generation": 7,
+    "speed": 33,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/crabominable-mega.webp",
+    "megaDebut": "ZA DLC"
+  },
+  {
+    "id": "lycanroc-midday",
+    "dex": 745,
+    "name": "鬃岩狼人（白晝的樣子）",
+    "en": "Lycanroc Midday",
+    "types": [
+      "岩石"
+    ],
+    "generation": 7,
+    "speed": 112,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/lycanroc-midday.webp"
+  },
+  {
+    "id": "lycanroc-midnight",
+    "dex": 745,
+    "name": "鬃岩狼人（黑夜的樣子）",
+    "en": "Lycanroc Midnight",
+    "types": [
+      "岩石"
+    ],
+    "generation": 7,
+    "speed": 82,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/lycanroc-midnight.webp"
+  },
+  {
+    "id": "lycanroc-dusk",
+    "dex": 745,
+    "name": "鬃岩狼人（黃昏的樣子）",
+    "en": "Lycanroc Dusk",
+    "types": [
+      "岩石"
+    ],
+    "generation": 7,
+    "speed": 110,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/lycanroc-dusk.webp"
+  },
+  {
+    "id": "toxapex",
+    "dex": 748,
+    "name": "超壞星",
+    "en": "Toxapex",
+    "types": [
+      "毒",
+      "水"
+    ],
+    "generation": 7,
+    "speed": 35,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/toxapex.webp"
+  },
+  {
+    "id": "mudsdale",
+    "dex": 750,
+    "name": "重泥挽馬",
+    "en": "Mudsdale",
+    "types": [
+      "地面"
+    ],
+    "generation": 7,
+    "speed": 35,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/mudsdale.webp"
+  },
+  {
+    "id": "araquanid",
+    "dex": 752,
+    "name": "滴蛛霸",
+    "en": "Araquanid",
+    "types": [
+      "水",
+      "蟲"
+    ],
+    "generation": 7,
+    "speed": 42,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/araquanid.webp"
+  },
+  {
+    "id": "salazzle",
+    "dex": 758,
+    "name": "焰后蜥",
+    "en": "Salazzle",
+    "types": [
+      "毒",
+      "火"
+    ],
+    "generation": 7,
+    "speed": 117,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/salazzle.webp"
+  },
+  {
+    "id": "tsareena",
+    "dex": 763,
+    "name": "甜冷美后",
+    "en": "Tsareena",
+    "types": [
+      "草"
+    ],
+    "generation": 7,
+    "speed": 72,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/tsareena.webp"
+  },
+  {
+    "id": "oranguru",
+    "dex": 765,
+    "name": "智揮猩",
+    "en": "Oranguru",
+    "types": [
+      "一般",
+      "超能力"
+    ],
+    "generation": 7,
+    "speed": 60,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/oranguru.webp"
+  },
+  {
+    "id": "passimian",
+    "dex": 766,
+    "name": "投擲猴",
+    "en": "Passimian",
+    "types": [
+      "格鬥"
+    ],
+    "generation": 7,
+    "speed": 80,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/passimian.webp"
+  },
+  {
+    "id": "mimikyu",
+    "dex": 778,
+    "name": "謎擬Ｑ",
+    "en": "Mimikyu",
+    "types": [
+      "幽靈",
+      "妖精"
+    ],
+    "generation": 7,
+    "speed": 96,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/謎擬Ｑ.png"
+  },
+  {
+    "id": "drampa",
+    "dex": 780,
+    "name": "老翁龍",
+    "en": "Drampa",
+    "types": [
+      "一般",
+      "龍"
+    ],
+    "generation": 7,
+    "speed": 36,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/drampa.webp"
+  },
+  {
+    "id": "drampa-mega",
+    "dex": 780,
+    "name": "超級老翁龍",
+    "en": "Mega Drampa",
+    "types": [
+      "一般",
+      "龍"
+    ],
+    "generation": 7,
+    "speed": 36,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/drampa-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "kommo-o",
+    "dex": 784,
+    "name": "杖尾鱗甲龍",
+    "en": "Kommo-o",
+    "types": [
+      "龍",
+      "格鬥"
+    ],
+    "generation": 7,
+    "speed": 85,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/kommo-o.webp"
+  },
+  {
+    "id": "corviknight",
+    "dex": 823,
+    "name": "鋼鎧鴉",
+    "en": "Corviknight",
+    "types": [
+      "飛行",
+      "鋼"
+    ],
+    "generation": 8,
+    "speed": 67,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/corviknight.webp"
+  },
+  {
+    "id": "flapple",
+    "dex": 841,
+    "name": "蘋裹龍",
+    "en": "Flapple",
+    "types": [
+      "草",
+      "龍"
+    ],
+    "generation": 8,
+    "speed": 70,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/flapple.webp"
+  },
+  {
+    "id": "appletun",
+    "dex": 842,
+    "name": "豐蜜龍",
+    "en": "Appletun",
+    "types": [
+      "草",
+      "龍"
+    ],
+    "generation": 8,
+    "speed": 30,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/appletun.webp"
+  },
+  {
+    "id": "sandaconda",
+    "dex": 844,
+    "name": "沙螺蟒",
+    "en": "Sandaconda",
+    "types": [
+      "地面"
+    ],
+    "generation": 8,
+    "speed": 71,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/sandaconda.webp"
+  },
+  {
+    "id": "polteageist-phony",
+    "dex": 855,
+    "name": "怖思壺",
+    "en": "Polteageist",
+    "types": [
+      "幽靈"
+    ],
+    "generation": 8,
+    "speed": 70,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/polteageist-phony.webp"
+  },
+  {
+    "id": "hatterene",
+    "dex": 858,
+    "name": "布莉姆溫",
+    "en": "Hatterene",
+    "types": [
+      "超能力",
+      "妖精"
+    ],
+    "generation": 8,
+    "speed": 29,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/hatterene.webp"
+  },
+  {
+    "id": "mr-rime",
+    "dex": 866,
+    "name": "踏冰人偶",
+    "en": "Mr. Rime",
+    "types": [
+      "冰",
+      "超能力"
+    ],
+    "generation": 8,
+    "speed": 70,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/mr-rime.webp"
+  },
+  {
+    "id": "runerigus",
+    "dex": 867,
+    "name": "死神板",
+    "en": "Runerigus",
+    "types": [
+      "地面",
+      "幽靈"
+    ],
+    "generation": 8,
+    "speed": 30,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/runerigus.webp"
+  },
+  {
+    "id": "alcremie-vanilla-cream",
+    "dex": 869,
+    "name": "霜奶仙",
+    "en": "Alcremie",
+    "types": [
+      "妖精"
+    ],
+    "generation": 8,
+    "speed": 64,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/alcremie-vanilla-cream.webp"
+  },
+  {
+    "id": "morpeko-full-belly",
+    "dex": 877,
+    "name": "莫魯貝可",
+    "en": "Morpeko",
+    "types": [
+      "電",
+      "惡"
+    ],
+    "generation": 8,
+    "speed": 97,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/morpeko-full-belly.webp"
+  },
+  {
+    "id": "dragapult",
+    "dex": 887,
+    "name": "多龍巴魯托",
+    "en": "Dragapult",
+    "types": [
+      "龍",
+      "幽靈"
+    ],
+    "generation": 8,
+    "speed": 142,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/多龍巴魯托.png"
+  },
+  {
+    "id": "wyrdeer",
+    "dex": 899,
+    "name": "詭角鹿",
+    "en": "Wyrdeer",
+    "types": [
+      "一般",
+      "超能力"
+    ],
+    "generation": 8,
+    "speed": 65,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/wyrdeer.webp"
+  },
+  {
+    "id": "kleavor",
+    "dex": 900,
+    "name": "劈斧螳螂",
+    "en": "Kleavor",
+    "types": [
+      "蟲",
+      "岩石"
+    ],
+    "generation": 8,
+    "speed": 85,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/kleavor.webp"
+  },
+  {
+    "id": "basculegion",
+    "dex": 902,
+    "name": "幽尾玄魚（雄性的樣子）",
+    "en": "Basculegion",
+    "types": [
+      "水",
+      "幽靈"
+    ],
+    "generation": 8,
+    "speed": 78,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/basculegion.webp"
+  },
+  {
+    "id": "female-basculegion",
+    "dex": 902,
+    "name": "幽尾玄魚（雌性的樣子）",
+    "en": "Female Basculegion",
+    "types": [
+      "水",
+      "幽靈"
+    ],
+    "generation": 8,
+    "speed": 78,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/female-basculegion.webp"
+  },
+  {
+    "id": "sneasler",
+    "dex": 903,
+    "name": "大狃拉",
+    "en": "Sneasler",
+    "types": [
+      "格鬥",
+      "毒"
+    ],
+    "generation": 8,
+    "speed": 120,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/sneasler.webp"
+  },
+  {
+    "id": "meowscarada",
+    "dex": 908,
+    "name": "魔幻假面喵",
+    "en": "Meowscarada",
+    "types": [
+      "草",
+      "惡"
+    ],
+    "generation": 9,
+    "speed": 123,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/meowscarada.webp"
+  },
+  {
+    "id": "skeledirge",
+    "dex": 911,
+    "name": "骨紋巨聲鱷",
+    "en": "Skeledirge",
+    "types": [
+      "火",
+      "幽靈"
+    ],
+    "generation": 9,
+    "speed": 66,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/skeledirge.webp"
+  },
+  {
+    "id": "quaquaval",
+    "dex": 914,
+    "name": "狂歡浪舞鴨",
+    "en": "Quaquaval",
+    "types": [
+      "水",
+      "格鬥"
+    ],
+    "generation": 9,
+    "speed": 85,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/quaquaval.webp"
+  },
+  {
+    "id": "maushold-family-of-four",
+    "dex": 925,
+    "name": "一家鼠",
+    "en": "Maushold",
+    "types": [
+      "一般"
+    ],
+    "generation": 9,
+    "speed": 111,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/maushold-family-of-four.webp"
+  },
+  {
+    "id": "garganacl",
+    "dex": 934,
+    "name": "鹽石巨靈",
+    "en": "Garganacl",
+    "types": [
+      "岩石"
+    ],
+    "generation": 9,
+    "speed": 35,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/garganacl.webp"
+  },
+  {
+    "id": "armarouge",
+    "dex": 936,
+    "name": "紅蓮鎧騎",
+    "en": "Armarouge",
+    "types": [
+      "火",
+      "超能力"
+    ],
+    "generation": 9,
+    "speed": 75,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/armarouge.webp"
+  },
+  {
+    "id": "ceruledge",
+    "dex": 937,
+    "name": "蒼炎刃鬼",
+    "en": "Ceruledge",
+    "types": [
+      "火",
+      "幽靈"
+    ],
+    "generation": 9,
+    "speed": 85,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/ceruledge.webp"
+  },
+  {
+    "id": "bellibolt",
+    "dex": 939,
+    "name": "電肚蛙",
+    "en": "Bellibolt",
+    "types": [
+      "電"
+    ],
+    "generation": 9,
+    "speed": 45,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/bellibolt.webp"
+  },
+  {
+    "id": "scovillain",
+    "dex": 952,
+    "name": "狠辣椒",
+    "en": "Scovillain",
+    "types": [
+      "草",
+      "火"
+    ],
+    "generation": 9,
+    "speed": 75,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/scovillain.webp"
+  },
+  {
+    "id": "scovillain-mega",
+    "dex": 952,
+    "name": "超級狠辣椒",
+    "en": "Mega Scovillain",
+    "types": [
+      "草",
+      "火"
+    ],
+    "generation": 9,
+    "speed": 75,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/scovillain-mega.webp",
+    "megaDebut": "ZA DLC"
+  },
+  {
+    "id": "espathra",
+    "dex": 956,
+    "name": "超能豔鴕",
+    "en": "Espathra",
+    "types": [
+      "超能力"
+    ],
+    "generation": 9,
+    "speed": 105,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/espathra.webp"
+  },
+  {
+    "id": "tinkaton",
+    "dex": 959,
+    "name": "巨鍛匠",
+    "en": "Tinkaton",
+    "types": [
+      "妖精",
+      "鋼"
+    ],
+    "generation": 9,
+    "speed": 94,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/tinkaton.webp"
+  },
+  {
+    "id": "palafin-zero",
+    "dex": 964,
+    "name": "海豚俠（平凡形態）",
+    "en": "Palafin Zero",
+    "types": [
+      "水"
+    ],
+    "generation": 9,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/palafin-zero.webp"
+  },
+  {
+    "id": "palafin-hero",
+    "dex": 964,
+    "name": "海豚俠（全能形態）",
+    "en": "Palafin Hero",
+    "types": [
+      "水"
+    ],
+    "generation": 9,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/palafin-hero.webp"
+  },
+  {
+    "id": "orthworm",
+    "dex": 968,
+    "name": "拖拖蚓",
+    "en": "Orthworm",
+    "types": [
+      "鋼"
+    ],
+    "generation": 9,
+    "speed": 65,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/orthworm.webp"
+  },
+  {
+    "id": "glimmora",
+    "dex": 970,
+    "name": "晶光花",
+    "en": "Glimmora",
+    "types": [
+      "岩石",
+      "毒"
+    ],
+    "generation": 9,
+    "speed": 86,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/glimmora.webp"
+  },
+  {
+    "id": "glimmora-mega",
+    "dex": 970,
+    "name": "超級晶光花",
+    "en": "Mega Glimmora",
+    "types": [
+      "岩石",
+      "毒"
+    ],
+    "generation": 9,
+    "speed": 101,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/glimmora-mega.webp",
+    "megaDebut": "ZA DLC"
+  },
+  {
+    "id": "farigiraf",
+    "dex": 981,
+    "name": "奇麒麟",
+    "en": "Farigiraf",
+    "types": [
+      "一般",
+      "超能力"
+    ],
+    "generation": 9,
+    "speed": 60,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/奇麒麟.png"
+  },
+  {
+    "id": "kingambit",
+    "dex": 983,
+    "name": "仆斬將軍",
+    "en": "Kingambit",
+    "types": [
+      "惡",
+      "鋼"
+    ],
+    "generation": 9,
+    "speed": 50,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/kingambit.webp"
+  },
+  {
+    "id": "sinistcha-unremarkable",
+    "dex": 1013,
+    "name": "來悲粗茶",
+    "en": "Sinistcha",
+    "types": [
+      "草",
+      "幽靈"
+    ],
+    "generation": 9,
+    "speed": 70,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/sinistcha-unremarkable.webp"
+  },
+  {
+    "id": "archaludon",
+    "dex": 1018,
+    "name": "鋁鋼橋龍",
+    "en": "Archaludon",
+    "types": [
+      "鋼",
+      "龍"
+    ],
+    "generation": 9,
+    "speed": 85,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/archaludon.webp"
+  },
+  {
+    "id": "hydrapple",
+    "dex": 1019,
+    "name": "蜜集大蛇",
+    "en": "Hydrapple",
+    "types": [
+      "草",
+      "龍"
+    ],
+    "generation": 9,
+    "speed": 44,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/hydrapple.webp"
+  },
+  {
+    "id": "vileplume",
+    "dex": 45,
+    "name": "霸王花",
+    "en": "Vileplume",
+    "types": [
+      "草",
+      "毒"
+    ],
+    "generation": 1,
+    "speed": 50,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/vileplume.webp"
+  },
+  {
+    "id": "qwilfish",
+    "dex": 211,
+    "name": "千針魚",
+    "en": "Qwilfish",
+    "types": [
+      "水",
+      "毒"
+    ],
+    "generation": 2,
+    "speed": 85,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/qwilfish.webp"
+  },
+  {
+    "id": "sceptile",
+    "dex": 254,
+    "name": "蜥蜴王",
+    "en": "Sceptile",
+    "types": [
+      "草"
+    ],
+    "generation": 3,
+    "speed": 120,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/蜥蜴王.png"
+  },
+  {
+    "id": "sceptile-mega",
+    "dex": 254,
+    "name": "超級蜥蜴王",
+    "en": "Mega Sceptile",
+    "types": [
+      "草",
+      "龍"
+    ],
+    "generation": 3,
+    "speed": 145,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/Mega蜥蜴王.png",
+    "megaDebut": "ORAS"
+  },
+  {
+    "id": "blaziken",
+    "dex": 257,
+    "name": "火焰雞",
+    "en": "Blaziken",
+    "types": [
+      "火",
+      "格鬥"
+    ],
+    "generation": 3,
+    "speed": 80,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/blaziken.webp"
+  },
+  {
+    "id": "blaziken-mega",
+    "dex": 257,
+    "name": "超級火焰雞",
+    "en": "Mega Blaziken",
+    "types": [
+      "火",
+      "格鬥"
+    ],
+    "generation": 3,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/blaziken-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "swampert",
+    "dex": 260,
+    "name": "巨沼怪",
+    "en": "Swampert",
+    "types": [
+      "水",
+      "地面"
+    ],
+    "generation": 3,
+    "speed": 60,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/swampert.webp"
+  },
+  {
+    "id": "swampert-mega",
+    "dex": 260,
+    "name": "超級巨沼怪",
+    "en": "Mega Swampert",
+    "types": [
+      "水",
+      "地面"
+    ],
+    "generation": 3,
+    "speed": 70,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/swampert-mega.webp",
+    "megaDebut": "ORAS"
+  },
+  {
+    "id": "mawile",
+    "dex": 303,
+    "name": "大嘴娃",
+    "en": "Mawile",
+    "types": [
+      "鋼",
+      "妖精"
+    ],
+    "generation": 3,
+    "speed": 50,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/mawile.webp"
+  },
+  {
+    "id": "mawile-mega",
+    "dex": 303,
+    "name": "超級大嘴娃",
+    "en": "Mega Mawile",
+    "types": [
+      "鋼",
+      "妖精"
+    ],
+    "generation": 3,
+    "speed": 50,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/mawile-mega.webp",
+    "megaDebut": "XY"
+  },
+  {
+    "id": "metagross",
+    "dex": 376,
+    "name": "巨金怪",
+    "en": "Metagross",
+    "types": [
+      "鋼",
+      "超能力"
+    ],
+    "generation": 3,
+    "speed": 70,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/metagross.webp"
+  },
+  {
+    "id": "metagross-mega",
+    "dex": 376,
+    "name": "超級巨金怪",
+    "en": "Mega Metagross",
+    "types": [
+      "鋼",
+      "超能力"
+    ],
+    "generation": 3,
+    "speed": 110,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/metagross-mega.webp",
+    "megaDebut": "ORAS"
+  },
+  {
+    "id": "staraptor",
+    "dex": 398,
+    "name": "姆克鷹",
+    "en": "Staraptor",
+    "types": [
+      "一般",
+      "飛行"
+    ],
+    "generation": 4,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/staraptor.webp"
+  },
+  {
+    "id": "staraptor-mega",
+    "dex": 398,
+    "name": "超級姆克鷹",
+    "en": "Mega Staraptor",
+    "types": [
+      "格鬥",
+      "飛行"
+    ],
+    "generation": 4,
+    "speed": 110,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/staraptor-mega.webp",
+    "megaDebut": "ZA DLC"
+  },
+  {
+    "id": "musharna",
+    "dex": 518,
+    "name": "夢夢蝕",
+    "en": "Musharna",
+    "types": [
+      "超能力"
+    ],
+    "generation": 5,
+    "speed": 29,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/musharna.webp"
+  },
+  {
+    "id": "scolipede",
+    "dex": 545,
+    "name": "蜈蚣王",
+    "en": "Scolipede",
+    "types": [
+      "蟲",
+      "毒"
+    ],
+    "generation": 5,
+    "speed": 112,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/scolipede.webp"
+  },
+  {
+    "id": "scolipede-mega",
+    "dex": 545,
+    "name": "超級蜈蚣王",
+    "en": "Mega Scolipede",
+    "types": [
+      "蟲",
+      "毒"
+    ],
+    "generation": 5,
+    "speed": 62,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/scolipede-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "scrafty",
+    "dex": 560,
+    "name": "頭巾混混",
+    "en": "Scrafty",
+    "types": [
+      "惡",
+      "格鬥"
+    ],
+    "generation": 5,
+    "speed": 58,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/scrafty.webp"
+  },
+  {
+    "id": "scrafty-mega",
+    "dex": 560,
+    "name": "超級頭巾混混",
+    "en": "Mega Scrafty",
+    "types": [
+      "惡",
+      "格鬥"
+    ],
+    "generation": 5,
+    "speed": 68,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/scrafty-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "eelektross",
+    "dex": 604,
+    "name": "麻麻鰻魚王",
+    "en": "Eelektross",
+    "types": [
+      "電"
+    ],
+    "generation": 5,
+    "speed": 50,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/eelektross.webp"
+  },
+  {
+    "id": "eelektross-mega",
+    "dex": 604,
+    "name": "超級麻麻鰻魚王",
+    "en": "Mega Eelektross",
+    "types": [
+      "電"
+    ],
+    "generation": 5,
+    "speed": 80,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/eelektross-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "pyroar-male",
+    "dex": 668,
+    "name": "火炎獅",
+    "en": "Pyroar Male",
+    "types": [
+      "火",
+      "一般"
+    ],
+    "generation": 6,
+    "speed": 106,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/pyroar-male.webp",
+    "gender": "male"
+  },
+  {
+    "id": "pyroar-female",
+    "dex": 668,
+    "name": "火炎獅",
+    "en": "Pyroar Female",
+    "types": [
+      "火",
+      "一般"
+    ],
+    "generation": 6,
+    "speed": 106,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/pyroar-female.webp",
+    "gender": "female"
+  },
+  {
+    "id": "pyroar-mega",
+    "dex": 668,
+    "name": "超級火炎獅",
+    "en": "Mega Pyroar",
+    "types": [
+      "火",
+      "一般"
+    ],
+    "generation": 6,
+    "speed": 126,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/pyroar-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "malamar",
+    "dex": 687,
+    "name": "烏賊王",
+    "en": "Malamar",
+    "types": [
+      "惡",
+      "超能力"
+    ],
+    "generation": 6,
+    "speed": 73,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/malamar.webp"
+  },
+  {
+    "id": "malamar-mega",
+    "dex": 687,
+    "name": "超級烏賊王",
+    "en": "Mega Malamar",
+    "types": [
+      "惡",
+      "超能力"
+    ],
+    "generation": 6,
+    "speed": 88,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/malamar-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "barbaracle",
+    "dex": 689,
+    "name": "龜足巨鎧",
+    "en": "Barbaracle",
+    "types": [
+      "岩石",
+      "水"
+    ],
+    "generation": 6,
+    "speed": 68,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/barbaracle.webp"
+  },
+  {
+    "id": "barbaracle-mega",
+    "dex": 689,
+    "name": "超級龜足巨鎧",
+    "en": "Mega Barbaracle",
+    "types": [
+      "岩石",
+      "格鬥"
+    ],
+    "generation": 6,
+    "speed": 88,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/barbaracle-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "dragalge",
+    "dex": 691,
+    "name": "毒藻龍",
+    "en": "Dragalge",
+    "types": [
+      "毒",
+      "龍"
+    ],
+    "generation": 6,
+    "speed": 44,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/dragalge.webp"
+  },
+  {
+    "id": "dragalge-mega",
+    "dex": 691,
+    "name": "超級毒藻龍",
+    "en": "Mega Dragalge",
+    "types": [
+      "毒",
+      "龍"
+    ],
+    "generation": 6,
+    "speed": 44,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/dragalge-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "grimmsnarl",
+    "dex": 861,
+    "name": "長毛巨魔",
+    "en": "Grimmsnarl",
+    "types": [
+      "惡",
+      "妖精"
+    ],
+    "generation": 8,
+    "speed": 60,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/grimmsnarl.webp"
+  },
+  {
+    "id": "falinks",
+    "dex": 870,
+    "name": "列陣兵",
+    "en": "Falinks",
+    "types": [
+      "格鬥"
+    ],
+    "generation": 8,
+    "speed": 75,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/falinks.webp"
+  },
+  {
+    "id": "falinks-mega",
+    "dex": 870,
+    "name": "超級列陣兵",
+    "en": "Mega Falinks",
+    "types": [
+      "格鬥"
+    ],
+    "generation": 8,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/falinks-mega.webp",
+    "megaDebut": "ZA"
+  },
+  {
+    "id": "overqwil",
+    "dex": 904,
+    "name": "萬針魚",
+    "en": "Overqwil",
+    "types": [
+      "惡",
+      "毒"
+    ],
+    "generation": 8,
+    "speed": 85,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/overqwil.webp"
+  },
+  {
+    "id": "houndstone",
+    "dex": 972,
+    "name": "墓揚犬",
+    "en": "Houndstone",
+    "types": [
+      "幽靈"
+    ],
+    "generation": 9,
+    "speed": 68,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/houndstone.webp"
+  },
+  {
+    "id": "annihilape",
+    "dex": 979,
+    "name": "棄世猴",
+    "en": "Annihilape",
+    "types": [
+      "格鬥",
+      "幽靈"
+    ],
+    "generation": 9,
+    "speed": 90,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/annihilape.webp"
+  },
+  {
+    "id": "gholdengo",
+    "dex": 1000,
+    "name": "賽富豪",
+    "en": "Gholdengo",
+    "types": [
+      "鋼",
+      "幽靈"
+    ],
+    "generation": 9,
+    "speed": 84,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/gholdengo.webp"
+  },
+  {
+    "id": "wigglytuff",
+    "dex": 40,
+    "name": "胖可丁",
+    "en": "Wigglytuff",
+    "types": [
+      "一般",
+      "妖精"
+    ],
+    "generation": 1,
+    "speed": 45,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/wigglytuff.webp"
+  },
+  {
+    "id": "persian",
+    "dex": 53,
+    "name": "貓老大",
+    "en": "Persian",
+    "types": [
+      "一般"
+    ],
+    "generation": 1,
+    "speed": 115,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/persian.webp"
+  },
+  {
+    "id": "persian-alola",
+    "dex": 53,
+    "name": "貓老大（阿羅拉的樣子）",
+    "en": "Alolan Persian",
+    "types": [
+      "惡"
+    ],
+    "generation": 7,
+    "speed": 115,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/persian-alola.webp"
+  },
+  {
+    "id": "farfetch-d",
+    "dex": 83,
+    "name": "大蔥鴨",
+    "en": "Farfetch’d",
+    "types": [
+      "一般",
+      "飛行"
+    ],
+    "generation": 1,
+    "speed": 60,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/farfetch-d.webp"
+  },
+  {
+    "id": "mr-mime",
+    "dex": 122,
+    "name": "魔牆人偶",
+    "en": "Mr. Mime",
+    "types": [
+      "超能力",
+      "妖精"
+    ],
+    "generation": 1,
+    "speed": 90,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/mr-mime.webp"
+  },
+  {
+    "id": "swalot",
+    "dex": 317,
+    "name": "吞食獸",
+    "en": "Swalot",
+    "types": [
+      "毒"
+    ],
+    "generation": 3,
+    "speed": 55,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/swalot.webp"
+  },
+  {
+    "id": "salamence",
+    "dex": 373,
+    "name": "暴飛龍",
+    "en": "Salamence",
+    "types": [
+      "龍",
+      "飛行"
+    ],
+    "generation": 3,
+    "speed": 100,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/salamence.webp"
+  },
+  {
+    "id": "salamence-mega",
+    "dex": 373,
+    "name": "超級暴飛龍",
+    "en": "Mega Salamence",
+    "types": [
+      "龍",
+      "飛行"
+    ],
+    "generation": 3,
+    "speed": 120,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/salamence-mega.webp",
+    "megaDebut": "ORAS"
+  },
+  {
+    "id": "gogoat",
+    "dex": 673,
+    "name": "坐騎山羊",
+    "en": "Gogoat",
+    "types": [
+      "草"
+    ],
+    "generation": 6,
+    "speed": 68,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/gogoat.webp"
+  },
+  {
+    "id": "golisopod",
+    "dex": 768,
+    "name": "具甲武者",
+    "en": "Golisopod",
+    "types": [
+      "蟲",
+      "水"
+    ],
+    "generation": 7,
+    "speed": 40,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/具甲武者.png"
+  },
+  {
+    "id": "golisopod-mega",
+    "dex": 768,
+    "name": "超級具甲武者",
+    "en": "Mega Golisopod",
+    "types": [
+      "蟲",
+      "鋼"
+    ],
+    "generation": 7,
+    "speed": 40,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/Mega具甲武者.png",
+    "megaDebut": "ZA DLC"
+  },
+  {
+    "id": "rillaboom",
+    "dex": 812,
+    "name": "轟擂金剛猩",
+    "en": "Rillaboom",
+    "types": [
+      "草"
+    ],
+    "generation": 8,
+    "speed": 85,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/轟擂金剛猩.png"
+  },
+  {
+    "id": "cinderace",
+    "dex": 815,
+    "name": "閃焰王牌",
+    "en": "Cinderace",
+    "types": [
+      "火"
+    ],
+    "generation": 8,
+    "speed": 119,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/cinderace.webp"
+  },
+  {
+    "id": "inteleon",
+    "dex": 818,
+    "name": "千面避役",
+    "en": "Inteleon",
+    "types": [
+      "水"
+    ],
+    "generation": 8,
+    "speed": 120,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/inteleon.webp"
+  },
+  {
+    "id": "thievul",
+    "dex": 828,
+    "name": "狐大盜",
+    "en": "Thievul",
+    "types": [
+      "惡"
+    ],
+    "generation": 8,
+    "speed": 90,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/thievul.webp"
+  },
+  {
+    "id": "toxtricity",
+    "dex": 849,
+    "name": "顫弦蠑螈（高調的樣子）",
+    "en": "Toxtricity",
+    "types": [
+      "電",
+      "毒"
+    ],
+    "generation": 8,
+    "speed": 75,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/toxtricity.webp"
+  },
+  {
+    "id": "low-key-toxtricity",
+    "dex": 849,
+    "name": "顫弦蠑螈（低調的樣子）",
+    "en": "Low Key Toxtricity",
+    "types": [
+      "電",
+      "毒"
+    ],
+    "generation": 8,
+    "speed": 75,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/low-key-toxtricity.webp"
+  },
+  {
+    "id": "grapploct",
+    "dex": 853,
+    "name": "八爪武師",
+    "en": "Grapploct",
+    "types": [
+      "格鬥"
+    ],
+    "generation": 8,
+    "speed": 42,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/grapploct.webp"
+  },
+  {
+    "id": "perrserker",
+    "dex": 863,
+    "name": "喵頭目",
+    "en": "Perrserker",
+    "types": [
+      "鋼"
+    ],
+    "generation": 8,
+    "speed": 50,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/perrserker.webp"
+  },
+  {
+    "id": "sirfetch-d",
+    "dex": 865,
+    "name": "蔥遊兵",
+    "en": "Sirfetch’d",
+    "types": [
+      "格鬥"
+    ],
+    "generation": 8,
+    "speed": 65,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/sirfetch-d.webp"
+  },
+  {
+    "id": "pincurchin",
+    "dex": 871,
+    "name": "啪嚓海膽",
+    "en": "Pincurchin",
+    "types": [
+      "電"
+    ],
+    "generation": 8,
+    "speed": 15,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/pincurchin.webp"
+  },
+  {
+    "id": "indeedee-male",
+    "dex": 876,
+    "name": "愛管侍",
+    "en": "Indeedee",
+    "types": [
+      "超能力",
+      "一般"
+    ],
+    "generation": 8,
+    "speed": 95,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/愛管侍（公）.png",
+    "gender": "male"
+  },
+  {
+    "id": "indeedee-female",
+    "dex": 876,
+    "name": "愛管侍",
+    "en": "Female Indeedee",
+    "types": [
+      "超能力",
+      "一般"
+    ],
+    "generation": 8,
+    "speed": 85,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/愛管侍（母）.png",
+    "gender": "female"
+  },
+  {
+    "id": "pawmot",
+    "dex": 923,
+    "name": "巴布土撥",
+    "en": "Pawmot",
+    "types": [
+      "電",
+      "格鬥"
+    ],
+    "generation": 9,
+    "speed": 105,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/pawmot.webp"
+  },
+  {
+    "id": "arboliva",
+    "dex": 930,
+    "name": "奧利瓦",
+    "en": "Arboliva",
+    "types": [
+      "草",
+      "一般"
+    ],
+    "generation": 9,
+    "speed": 39,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/arboliva.webp"
+  },
+  {
+    "id": "squawkabilly-green",
+    "dex": 931,
+    "name": "怒鸚哥",
+    "en": "Squawkabilly",
+    "types": [
+      "一般",
+      "飛行"
+    ],
+    "generation": 9,
+    "speed": 92,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/squawkabilly-green.webp"
+  },
+  {
+    "id": "mabosstiff",
+    "dex": 943,
+    "name": "獒教父",
+    "en": "Mabosstiff",
+    "types": [
+      "惡"
+    ],
+    "generation": 9,
+    "speed": 85,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/mabosstiff.webp"
+  },
+  {
+    "id": "baxcalibur",
+    "dex": 998,
+    "name": "戟脊龍",
+    "en": "Baxcalibur",
+    "types": [
+      "龍",
+      "冰"
+    ],
+    "generation": 9,
+    "speed": 87,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": false,
+    "image": "./assets/pokemon/roster/baxcalibur.webp"
+  },
+  {
+    "id": "baxcalibur-mega",
+    "dex": 998,
+    "name": "超級戟脊龍",
+    "en": "Mega Baxcalibur",
+    "types": [
+      "龍",
+      "冰"
+    ],
+    "generation": 9,
+    "speed": 87,
+    "fullyEvolved": true,
+    "available": true,
+    "mega": true,
+    "image": "./assets/pokemon/roster/baxcalibur-mega.webp",
+    "megaDebut": "ZA DLC"
+  }
+]

@@ -1,0 +1,9 @@
+{
+ "$schema":"https://schema.tauri.app/config/2",
+ "productName":"Champions Speed Tool",
+ "version":"0.1.0",
+ "identifier":"io.github.champions-speed-tool.desktop",
+ "build":{"beforeDevCommand":"npm run dev","devUrl":"http://127.0.0.1:1420","beforeBuildCommand":"npm run build","frontendDist":"../dist"},
+ "app":{"withGlobalTauri":true,"windows":[{"title":"速度線研究所 · Pokémon Champions","width":1380,"height":960,"minWidth":600,"minHeight":650}],"security":{"csp":"default-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self' ipc: http://ipc.localhost"}},
+ "bundle":{"active":true,"targets":["nsis"],"icon":["icons/icon.ico"],"windows":{"webviewInstallMode":{"type":"embedBootstrapper"}}}
+}

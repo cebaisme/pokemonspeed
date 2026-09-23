@@ -1,0 +1,21 @@
+{
+  "asOf": "2026-09-23",
+  "gameVersion": "1.2.0",
+  "forms": 345,
+  "sourceForms": 395,
+  "collapsedAppearanceDex": [
+    351,
+    666,
+    671,
+    676,
+    855,
+    869,
+    877,
+    925,
+    931,
+    1013
+  ],
+  "source": "https://wiki.52poke.com/wiki/寶可夢列表（Champions）",
+  "speedSource": "https://rotompicks.com/en/pokemon/",
+  "note": "Ten requested multi-appearance species are shown once each; Castform uses its normal type and shared base speed."
+}
