@@ -19,13 +19,13 @@ const itemImage = item => item === 'scarf' ? './assets/choice-scarf.png' : item 
 const itemLabel = item => item === 'scarf' ? '講究圍巾' : item === 'iron-ball' ? '黑色鐵球' : '';
 function controls(container, state, label) {
   const isOwn = container === '#own-controls', selected = isOwn ? team[selectedTeamIndex] : null;
-  const current = isOwn ? {tailwind:own.tailwind,abilitySpeedBoost:selected?.abilitySpeedBoost ?? false,stage:selected?.stage ?? 0} : state;
+  const current = isOwn ? {tailwind:own.tailwind,abilitySpeedBoost:selected?.abilitySpeedBoost ?? false,paralyzed:selected?.paralyzed ?? false,stage:selected?.stage ?? 0} : state;
   const selectedName = selected ? displayName(data.find(p=>p.id===selected.id)) : '';
-  $(container).innerHTML = `<div class="control-title">${label}${selectedName?' · '+selectedName:''}<button class="text-button" data-reset>重置速度</button></div><div class="toggles"><button data-toggle="tailwind" aria-pressed="${current.tailwind}">順風 <b>×2</b></button><button data-toggle="abilitySpeedBoost" aria-pressed="${current.abilitySpeedBoost}" ${isOwn&&!selected?'disabled':''}>特性加速 <b>×2</b></button></div><div class="stage-heading"><span>速度階級${selectedName?' · '+selectedName:''}</span><strong>${signed(current.stage)}</strong></div><div class="stage-adjust"><div class="stage-ruler"><input data-stage-range type="range" min="-6" max="6" step="1" value="${current.stage}" aria-label="${label}速度階級滑桿" ${isOwn&&!selected?'disabled':''}><div class="ruler-marks" aria-label="速度階級刻度">${Array.from({length:13},(_,i)=>i-6).map(s=>`<button type="button" class="ruler-mark" data-stage-tick="${s}" aria-label="設定速度階級 ${signed(s)}" aria-current="${current.stage===s?'step':'false'}" ${isOwn&&!selected?'disabled':''}><span></span><small>${signed(s)}</small></button>`).join('')}</div></div><input data-stage-number type="number" min="-6" max="6" step="1" value="${current.stage}" aria-label="${label}速度階級數字" ${isOwn&&!selected?'disabled':''}></div>`;
+  $(container).innerHTML = `<div class="control-title">${label}${selectedName?' · '+selectedName:''}<button class="text-button" data-reset>重置速度</button></div><div class="toggles"><button data-toggle="tailwind" aria-pressed="${current.tailwind}">順風 <b>×2</b></button><button data-toggle="abilitySpeedBoost" aria-pressed="${current.abilitySpeedBoost}" ${isOwn&&!selected?'disabled':''}>特性加速 <b>×2</b></button><button data-toggle="paralyzed" aria-pressed="${current.paralyzed}" ${isOwn&&!selected?'disabled':''}>麻痺 <b>×½</b></button></div><div class="stage-heading"><span>速度階級${selectedName?' · '+selectedName:''}</span><strong>${signed(current.stage)}</strong></div><div class="stage-adjust"><div class="stage-ruler"><input data-stage-range type="range" min="-6" max="6" step="1" value="${current.stage}" aria-label="${label}速度階級滑桿" ${isOwn&&!selected?'disabled':''}><div class="ruler-marks" aria-label="速度階級刻度">${Array.from({length:13},(_,i)=>i-6).map(s=>`<button type="button" class="ruler-mark" data-stage-tick="${s}" aria-label="設定速度階級 ${signed(s)}" aria-current="${current.stage===s?'step':'false'}" ${isOwn&&!selected?'disabled':''}><span></span><small>${signed(s)}</small></button>`).join('')}</div></div><input data-stage-number type="number" min="-6" max="6" step="1" value="${current.stage}" aria-label="${label}速度階級數字" ${isOwn&&!selected?'disabled':''}></div>`;
   $(container).onclick = e => { const b = e.target.closest('button'); if (!b) return;
     if (b.dataset.stageTick !== undefined) {if(isOwn) selected.stage=+b.dataset.stageTick;else state.stage=+b.dataset.stageTick;}
-    else if (b.hasAttribute('data-reset')) {if(isOwn){own.tailwind=false;team.forEach(t=>{t.abilitySpeedBoost=false;t.stage=0;});}else Object.assign(state, freshState());}
-    else if (b.dataset.toggle) {if(isOwn && b.dataset.toggle==='tailwind') own.tailwind=!own.tailwind;else if(isOwn) selected.abilitySpeedBoost=!selected.abilitySpeedBoost;else state[b.dataset.toggle]=!state[b.dataset.toggle];}
+    else if (b.hasAttribute('data-reset')) {if(isOwn){own.tailwind=false;team.forEach(t=>{t.abilitySpeedBoost=false;t.paralyzed=false;t.stage=0;});}else Object.assign(state, freshState());}
+    else if (b.dataset.toggle) {if(isOwn && b.dataset.toggle==='tailwind') own.tailwind=!own.tailwind;else if(isOwn) selected[b.dataset.toggle]=!selected[b.dataset.toggle];else state[b.dataset.toggle]=!state[b.dataset.toggle];}
     if(isOwn) saveTeam(team);
     renderComparison(); };
   $(container).oninput = e => { if (!e.target.matches('[data-stage-range]')) return; const value=+e.target.value; $(container).querySelector('[data-stage-number]').value=value; $(container).querySelector('.stage-heading strong').textContent=signed(value); $(container).querySelectorAll('.ruler-mark').forEach(mark=>mark.setAttribute('aria-current',+mark.dataset.stageTick===value?'step':'false')); };
@@ -33,7 +33,7 @@ function controls(container, state, label) {
 }
 function ownMarkerMarkup(p, range, y) {
   const tickY = y(p.value);
-  const effects = [p.abilitySpeedBoost ? '特×2' : '', p.stage ? signed(p.stage) : ''].filter(Boolean);
+  const effects = [p.abilitySpeedBoost ? '特×2' : '', p.paralyzed ? '麻痺×½' : '', p.stage ? signed(p.stage) : ''].filter(Boolean);
   const badge = (x, label, dy) => `<g class="speed-status"><circle cx="${x}" cy="${p.markerY+18}" r="14"/><text x="${x}" y="${p.markerY+dy}" text-anchor="middle">${label}</text></g>`;
   const abilityBadge = p.abilitySpeedBoost ? badge(p.markerX-27, '特×2', 21) : '';
   const stageBadge = p.stage ? badge(p.markerX+27, signed(p.stage), 22) : '';
@@ -70,7 +70,7 @@ function renderComparison() {
   controls('#own-controls', own, '我方隊伍'); controls('#target-controls', opponent, '對方目標');
   $('#team-count').textContent = `${team.length}/6`;
   const range = ranges(target, opponent);
-  const points = team.map((t, index) => { const p = data.find(p => p.id === t.id); return {name:p.name, gender:p.gender, image:p.image, item:t.item, index, visible:t.visible, abilitySpeedBoost:t.abilitySpeedBoost, stage:t.stage, value:modified(t.mode==='direct' ? t.speed : stat(p.speed,t.sp,t.nature),{tailwind:own.tailwind,abilitySpeedBoost:t.abilitySpeedBoost,stage:t.stage},itemMultiplier(t.item))}; }).filter(p=>p.visible);
+  const points = team.map((t, index) => { const p = data.find(p => p.id === t.id); return {name:p.name, gender:p.gender, image:p.image, item:t.item, index, visible:t.visible, abilitySpeedBoost:t.abilitySpeedBoost, paralyzed:t.paralyzed, stage:t.stage, value:modified(t.mode==='direct' ? t.speed : stat(p.speed,t.sp,t.nature),{tailwind:own.tailwind,abilitySpeedBoost:t.abilitySpeedBoost,paralyzed:t.paralyzed,stage:t.stage},itemMultiplier(t.item))}; }).filter(p=>p.visible);
   const shownSpeeds = [range.min, range.max, ...range.items.map(i=>i.value), ...points.map(p=>p.value)];
   const lowest = Math.min(...shownSpeeds), highest = Math.max(...shownSpeeds);
   const y = v => trickRoom ? 30+(v-lowest)/Math.max(1,highest-lowest)*458 : 488-(v-lowest)/Math.max(1,highest-lowest)*458;
@@ -139,7 +139,7 @@ $('#edit-team').onclick=()=>{draft=structuredClone(team);teamTypeFilters=freshFi
 $('#close-team').onclick=()=>$('#team-dialog').close();
 $('#team-search').oninput=renderTeamPool;
 $('#team-type-filter').onclick=e=>{const key=e.target.closest('[data-team-mono]')?'單屬性':e.target.closest('[data-team-type]')?.dataset.teamType;if(!key)return;teamTypeFilters=toggleTypeOrMono(teamTypeFilters,key);renderTeamPool();};
-$('#team-pool').onclick=e=>{const id=e.target.closest('[data-add-pokemon]')?.dataset.addPokemon;if(!id||draft.length>=6)return;const p=data.find(p=>p.id===id);draft.push({id,mode:'calc',sp:32,nature:1,speed:stat(p.speed,32,1),visible:true,abilitySpeedBoost:false,stage:0,item:'none'});renderDraft();};
+$('#team-pool').onclick=e=>{const id=e.target.closest('[data-add-pokemon]')?.dataset.addPokemon;if(!id||draft.length>=6)return;const p=data.find(p=>p.id===id);draft.push({id,mode:'calc',sp:32,nature:1,speed:stat(p.speed,32,1),visible:true,abilitySpeedBoost:false,paralyzed:false,stage:0,item:'none'});renderDraft();};
 $('#import-pokepaste').onclick=async()=>{
   const input=$('#pokepaste-input').value.trim(),status=$('#pokepaste-status');
   if(!input){status.textContent='請先貼上連結或隊伍文字。';return;}
@@ -183,3 +183,4 @@ workspace.querySelectorAll('[data-deck]').forEach(button=>button.onclick=()=>set
 let touchStart=null;
 workspace.addEventListener('touchstart',e=>{touchStart={x:e.changedTouches[0].clientX,y:e.changedTouches[0].clientY};},{passive:true});
 workspace.addEventListener('touchend',e=>{if(!touchStart)return;const dx=e.changedTouches[0].clientX-touchStart.x,dy=e.changedTouches[0].clientY-touchStart.y;touchStart=null;if(Math.abs(dx)>65&&Math.abs(dx)>Math.abs(dy)*1.4)setPage(dx<0?'search':'speed');},{passive:true});
+

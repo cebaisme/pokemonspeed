@@ -8,6 +8,7 @@ export function sanitizeTeam(value, data) {
     nature: [.9, 1, 1.1].includes(+x.nature) ? +x.nature : 1,
     speed: Number.isFinite(+x.speed) ? Math.max(1, Math.min(9999, Math.trunc(+x.speed))) : 100, visible: x.visible !== false,
     abilitySpeedBoost: x.abilitySpeedBoost === true,
+    paralyzed: x.paralyzed === true,
     stage: Number.isInteger(+x.stage) ? Math.max(-6, Math.min(6, +x.stage)) : 0,
     item: ['scarf', 'iron-ball'].includes(x.item) && !data.find(p => p.id === x.id)?.mega ? x.item : 'none'
   }));

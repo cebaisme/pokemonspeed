@@ -187,6 +187,7 @@ dialog p{color:#c0c7c5}fieldset{border-color:#687479}legend{color:#72e99b}.dialo
 .toggles button[aria-pressed=true]{background:#28613f;border-color:#57d787;border-bottom-color:#174027;color:#fff;box-shadow:0 0 0 1px #57d787}
 #target-controls .toggles button[aria-pressed=true]{background:#902d36;border-color:#ff777d;border-bottom-color:#5a1720;box-shadow:0 0 0 1px #ff777d}
 .toggles button[aria-pressed=true] b{background:#ffffff30;color:#fff}
+.toggles button{min-width:0;padding-inline:5px;gap:4px;white-space:nowrap}
 .stage-heading{display:flex;align-items:center;justify-content:space-between;margin-top:11px;margin-bottom:6px;color:#bfc7c7;font-size:11px;letter-spacing:.08em}
 .stage-heading strong{padding:2px 9px;background:#2b6140;border:1px solid #52c77c;border-radius:12px;color:#dfffea;font-size:12px;letter-spacing:0}
 #target-controls .stage-heading strong{background:#8b3039;border-color:#e6666b;color:#fff1f1}
