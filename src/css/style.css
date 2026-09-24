@@ -339,7 +339,9 @@ dialog p{color:#c0d7d8}fieldset{border-color:#70a8ad}legend{color:#88e8ae}.dialo
 #chart .own-marker:focus-visible .own-ring{stroke:#ffffff;stroke-width:4}
 #chart .speed-status circle{fill:#c8ef19;stroke:#163c48;stroke-width:3}
 #chart .speed-status text{fill:#163019;font-size:9px;font-weight:900;pointer-events:none}
-#chart .paralysis-label{fill:#ffe18a;stroke:#173a43;stroke-width:2px;paint-order:stroke fill;font-size:12px;font-weight:900;pointer-events:none}
+#chart .paralysis-label{pointer-events:none}
+#chart .paralysis-label rect{fill:#e7bb57;stroke:#fff1b9;stroke-width:1.5}
+#chart .paralysis-label text{fill:#322519;font-size:12px;font-weight:900}
 .filter-heading{position:relative;padding-right:74px;min-height:54px}
 .filter-heading small{font-size:10px;letter-spacing:2px;color:#a7d1d1}
 .filter-heading h2{margin:7px 0 14px}
