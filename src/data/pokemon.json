@@ -13,7 +13,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/妙蛙花.png"
+    "image": "./assets/pokemon/champions-hd/venusaur.png"
   },
   {
     "id": "venusaur-mega",
@@ -29,7 +29,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/venusaur-mega.webp",
+    "image": "./assets/pokemon/champions-hd/venusaur-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -46,7 +46,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/噴火龍.png"
+    "image": "./assets/pokemon/champions-hd/charizard.png"
   },
   {
     "id": "charizard-mega-x",
@@ -62,7 +62,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/charizard-mega-x.webp",
+    "image": "./assets/pokemon/champions-hd/charizard-mega-x.png",
     "megaDebut": "XY"
   },
   {
@@ -79,7 +79,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/charizard-mega-y.webp",
+    "image": "./assets/pokemon/champions-hd/charizard-mega-y.png",
     "megaDebut": "XY"
   },
   {
@@ -95,7 +95,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/水箭龜.png"
+    "image": "./assets/pokemon/champions-hd/blastoise.png"
   },
   {
     "id": "blastoise-mega",
@@ -110,7 +110,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/Mega水箭龜.png",
+    "image": "./assets/pokemon/champions-hd/blastoise-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -127,7 +127,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/beedrill.webp"
+    "image": "./assets/pokemon/champions-hd/beedrill.png"
   },
   {
     "id": "beedrill-mega",
@@ -143,7 +143,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/beedrill-mega.webp",
+    "image": "./assets/pokemon/champions-hd/beedrill-mega.png",
     "megaDebut": "ORAS"
   },
   {
@@ -160,7 +160,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/pidgeot.webp"
+    "image": "./assets/pokemon/champions-hd/pidgeot.png"
   },
   {
     "id": "pidgeot-mega",
@@ -176,7 +176,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/pidgeot-mega.webp",
+    "image": "./assets/pokemon/champions-hd/pidgeot-mega.png",
     "megaDebut": "ORAS"
   },
   {
@@ -192,7 +192,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/arbok.webp"
+    "image": "./assets/pokemon/champions-hd/arbok.png"
   },
   {
     "id": "pikachu",
@@ -207,7 +207,7 @@
     "fullyEvolved": false,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/皮卡丘.png"
+    "image": "./assets/pokemon/champions-hd/pikachu.png"
   },
   {
     "id": "raichu",
@@ -222,7 +222,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/雷丘.png"
+    "image": "./assets/pokemon/champions-hd/raichu.png"
   },
   {
     "id": "raichu-alola",
@@ -238,7 +238,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/雷丘（阿羅拉）.png"
+    "image": "./assets/pokemon/champions-hd/raichu-alola.png"
   },
   {
     "id": "raichu-mega-x",
@@ -253,7 +253,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/Mega雷丘X.png",
+    "image": "./assets/pokemon/champions-hd/raichu-mega-x.png",
     "megaDebut": "ZA DLC"
   },
   {
@@ -269,7 +269,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/Mega雷丘Y.png",
+    "image": "./assets/pokemon/champions-hd/raichu-mega-y.png",
     "megaDebut": "ZA DLC"
   },
   {
@@ -285,7 +285,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/clefable.webp"
+    "image": "./assets/pokemon/champions-hd/clefable.png"
   },
   {
     "id": "clefable-mega",
@@ -301,7 +301,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/clefable-mega.webp",
+    "image": "./assets/pokemon/champions-hd/clefable-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -317,7 +317,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/ninetales.webp"
+    "image": "./assets/pokemon/champions-hd/ninetales.png"
   },
   {
     "id": "ninetales-alola",
@@ -333,7 +333,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/九尾（阿羅拉）.png"
+    "image": "./assets/pokemon/champions-hd/ninetales-alola.png"
   },
   {
     "id": "arcanine",
@@ -348,7 +348,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/arcanine.webp"
+    "image": "./assets/pokemon/champions-hd/arcanine.png"
   },
   {
     "id": "arcanine-hisui",
@@ -364,7 +364,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/arcanine-hisui.webp"
+    "image": "./assets/pokemon/champions-hd/arcanine-hisui.png"
   },
   {
     "id": "alakazam",
@@ -379,7 +379,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/alakazam.webp"
+    "image": "./assets/pokemon/champions-hd/alakazam.png"
   },
   {
     "id": "alakazam-mega",
@@ -394,7 +394,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/alakazam-mega.webp",
+    "image": "./assets/pokemon/champions-hd/alakazam-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -410,7 +410,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/machamp.webp"
+    "image": "./assets/pokemon/champions-hd/machamp.png"
   },
   {
     "id": "victreebel",
@@ -426,7 +426,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/victreebel.webp"
+    "image": "./assets/pokemon/champions-hd/victreebel.png"
   },
   {
     "id": "victreebel-mega",
@@ -442,7 +442,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/victreebel-mega.webp",
+    "image": "./assets/pokemon/champions-hd/victreebel-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -459,7 +459,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/slowbro.webp"
+    "image": "./assets/pokemon/champions-hd/slowbro.png"
   },
   {
     "id": "slowbro-galar",
@@ -475,7 +475,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/slowbro-galar.webp"
+    "image": "./assets/pokemon/champions-hd/slowbro-galar.png"
   },
   {
     "id": "slowbro-mega",
@@ -491,7 +491,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/slowbro-mega.webp",
+    "image": "./assets/pokemon/champions-hd/slowbro-mega.png",
     "megaDebut": "ORAS"
   },
   {
@@ -508,7 +508,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/耿鬼.png"
+    "image": "./assets/pokemon/champions-hd/gengar.png"
   },
   {
     "id": "gengar-mega",
@@ -524,7 +524,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/gengar-mega.webp",
+    "image": "./assets/pokemon/champions-hd/gengar-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -540,7 +540,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/kangaskhan.webp"
+    "image": "./assets/pokemon/champions-hd/kangaskhan.png"
   },
   {
     "id": "kangaskhan-mega",
@@ -555,7 +555,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/kangaskhan-mega.webp",
+    "image": "./assets/pokemon/champions-hd/kangaskhan-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -572,7 +572,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/starmie.webp"
+    "image": "./assets/pokemon/champions-hd/starmie.png"
   },
   {
     "id": "starmie-mega",
@@ -588,7 +588,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/starmie-mega.webp",
+    "image": "./assets/pokemon/champions-hd/starmie-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -604,7 +604,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/pinsir.webp"
+    "image": "./assets/pokemon/champions-hd/pinsir.png"
   },
   {
     "id": "pinsir-mega",
@@ -620,7 +620,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/pinsir-mega.webp",
+    "image": "./assets/pokemon/champions-hd/pinsir-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -636,7 +636,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/tauros.webp"
+    "image": "./assets/pokemon/champions-hd/tauros.png"
   },
   {
     "id": "aqua-tauros-paldea",
@@ -652,7 +652,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/aqua-tauros-paldea.webp"
+    "image": "./assets/pokemon/champions-hd/aqua-tauros-paldea.png"
   },
   {
     "id": "blaze-tauros-paldea",
@@ -668,7 +668,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/blaze-tauros-paldea.webp"
+    "image": "./assets/pokemon/champions-hd/blaze-tauros-paldea.png"
   },
   {
     "id": "tauros-paldea",
@@ -683,7 +683,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/tauros-paldea.webp"
+    "image": "./assets/pokemon/champions-hd/tauros-paldea.png"
   },
   {
     "id": "gyarados",
@@ -699,7 +699,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/gyarados.webp"
+    "image": "./assets/pokemon/champions-hd/gyarados.png"
   },
   {
     "id": "gyarados-mega",
@@ -715,7 +715,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/gyarados-mega.webp",
+    "image": "./assets/pokemon/champions-hd/gyarados-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -731,7 +731,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/ditto.webp"
+    "image": "./assets/pokemon/champions-hd/ditto.png"
   },
   {
     "id": "vaporeon",
@@ -746,7 +746,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/vaporeon.webp"
+    "image": "./assets/pokemon/champions-hd/vaporeon.png"
   },
   {
     "id": "jolteon",
@@ -761,7 +761,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/jolteon.webp"
+    "image": "./assets/pokemon/champions-hd/jolteon.png"
   },
   {
     "id": "flareon",
@@ -776,7 +776,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/flareon.webp"
+    "image": "./assets/pokemon/champions-hd/flareon.png"
   },
   {
     "id": "aerodactyl",
@@ -792,7 +792,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/aerodactyl.webp"
+    "image": "./assets/pokemon/champions-hd/aerodactyl.png"
   },
   {
     "id": "aerodactyl-mega",
@@ -808,7 +808,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/aerodactyl-mega.webp",
+    "image": "./assets/pokemon/champions-hd/aerodactyl-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -824,7 +824,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/snorlax.webp"
+    "image": "./assets/pokemon/champions-hd/snorlax.png"
   },
   {
     "id": "dragonite",
@@ -840,7 +840,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/dragonite.webp"
+    "image": "./assets/pokemon/champions-hd/dragonite.png"
   },
   {
     "id": "dragonite-mega",
@@ -856,7 +856,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/dragonite-mega.webp",
+    "image": "./assets/pokemon/champions-hd/dragonite-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -872,7 +872,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/meganium.webp"
+    "image": "./assets/pokemon/champions-hd/meganium.png"
   },
   {
     "id": "meganium-mega",
@@ -888,7 +888,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/meganium-mega.webp",
+    "image": "./assets/pokemon/champions-hd/meganium-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -904,7 +904,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/typhlosion.webp"
+    "image": "./assets/pokemon/champions-hd/typhlosion.png"
   },
   {
     "id": "typhlosion-hisui",
@@ -920,7 +920,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/typhlosion-hisui.webp"
+    "image": "./assets/pokemon/champions-hd/typhlosion-hisui.png"
   },
   {
     "id": "feraligatr",
@@ -935,7 +935,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/feraligatr.webp"
+    "image": "./assets/pokemon/champions-hd/feraligatr.png"
   },
   {
     "id": "feraligatr-mega",
@@ -951,7 +951,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/feraligatr-mega.webp",
+    "image": "./assets/pokemon/champions-hd/feraligatr-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -968,7 +968,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/ariados.webp"
+    "image": "./assets/pokemon/champions-hd/ariados.png"
   },
   {
     "id": "ampharos",
@@ -983,7 +983,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/ampharos.webp"
+    "image": "./assets/pokemon/champions-hd/ampharos.png"
   },
   {
     "id": "ampharos-mega",
@@ -999,7 +999,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/ampharos-mega.webp",
+    "image": "./assets/pokemon/champions-hd/ampharos-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -1016,7 +1016,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/azumarill.webp"
+    "image": "./assets/pokemon/champions-hd/azumarill.png"
   },
   {
     "id": "politoed",
@@ -1031,7 +1031,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/politoed.webp"
+    "image": "./assets/pokemon/champions-hd/politoed.png"
   },
   {
     "id": "espeon",
@@ -1046,7 +1046,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/espeon.webp"
+    "image": "./assets/pokemon/champions-hd/espeon.png"
   },
   {
     "id": "umbreon",
@@ -1061,7 +1061,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/umbreon.webp"
+    "image": "./assets/pokemon/champions-hd/umbreon.png"
   },
   {
     "id": "slowking",
@@ -1077,7 +1077,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/slowking.webp"
+    "image": "./assets/pokemon/champions-hd/slowking.png"
   },
   {
     "id": "slowking-galar",
@@ -1093,7 +1093,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/slowking-galar.webp"
+    "image": "./assets/pokemon/champions-hd/slowking-galar.png"
   },
   {
     "id": "forretress",
@@ -1109,7 +1109,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/forretress.webp"
+    "image": "./assets/pokemon/champions-hd/forretress.png"
   },
   {
     "id": "steelix",
@@ -1125,7 +1125,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/steelix.webp"
+    "image": "./assets/pokemon/champions-hd/steelix.png"
   },
   {
     "id": "steelix-mega",
@@ -1141,7 +1141,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/steelix-mega.webp",
+    "image": "./assets/pokemon/champions-hd/steelix-mega.png",
     "megaDebut": "ORAS"
   },
   {
@@ -1158,7 +1158,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/巨鉗螳螂.png"
+    "image": "./assets/pokemon/champions-hd/scizor.png"
   },
   {
     "id": "scizor-mega",
@@ -1174,7 +1174,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/scizor-mega.webp",
+    "image": "./assets/pokemon/champions-hd/scizor-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -1191,7 +1191,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/heracross.webp"
+    "image": "./assets/pokemon/champions-hd/heracross.png"
   },
   {
     "id": "heracross-mega",
@@ -1207,7 +1207,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/heracross-mega.webp",
+    "image": "./assets/pokemon/champions-hd/heracross-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -1224,7 +1224,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/skarmory.webp"
+    "image": "./assets/pokemon/champions-hd/skarmory.png"
   },
   {
     "id": "skarmory-mega",
@@ -1240,7 +1240,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/skarmory-mega.webp",
+    "image": "./assets/pokemon/champions-hd/skarmory-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -1257,7 +1257,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/houndoom.webp"
+    "image": "./assets/pokemon/champions-hd/houndoom.png"
   },
   {
     "id": "houndoom-mega",
@@ -1273,7 +1273,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/houndoom-mega.webp",
+    "image": "./assets/pokemon/champions-hd/houndoom-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -1290,7 +1290,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/班基拉斯.png"
+    "image": "./assets/pokemon/champions-hd/tyranitar.png"
   },
   {
     "id": "tyranitar-mega",
@@ -1306,7 +1306,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/tyranitar-mega.webp",
+    "image": "./assets/pokemon/champions-hd/tyranitar-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -1323,7 +1323,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/pelipper.webp"
+    "image": "./assets/pokemon/champions-hd/pelipper.png"
   },
   {
     "id": "gardevoir",
@@ -1339,7 +1339,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/gardevoir.webp"
+    "image": "./assets/pokemon/champions-hd/gardevoir.png"
   },
   {
     "id": "gardevoir-mega",
@@ -1355,7 +1355,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/gardevoir-mega.webp",
+    "image": "./assets/pokemon/champions-hd/gardevoir-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -1372,7 +1372,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/sableye.webp"
+    "image": "./assets/pokemon/champions-hd/sableye.png"
   },
   {
     "id": "sableye-mega",
@@ -1388,7 +1388,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/sableye-mega.webp",
+    "image": "./assets/pokemon/champions-hd/sableye-mega.png",
     "megaDebut": "ORAS"
   },
   {
@@ -1405,7 +1405,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/波士可多拉.png"
+    "image": "./assets/pokemon/champions-hd/aggron.png"
   },
   {
     "id": "aggron-mega",
@@ -1420,7 +1420,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/Mega波士可多拉.png",
+    "image": "./assets/pokemon/champions-hd/aggron-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -1437,7 +1437,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/medicham.webp"
+    "image": "./assets/pokemon/champions-hd/medicham.png"
   },
   {
     "id": "medicham-mega",
@@ -1453,7 +1453,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/medicham-mega.webp",
+    "image": "./assets/pokemon/champions-hd/medicham-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -1469,7 +1469,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/manectric.webp"
+    "image": "./assets/pokemon/champions-hd/manectric.png"
   },
   {
     "id": "manectric-mega",
@@ -1484,7 +1484,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/manectric-mega.webp",
+    "image": "./assets/pokemon/champions-hd/manectric-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -1501,7 +1501,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/sharpedo.webp"
+    "image": "./assets/pokemon/champions-hd/sharpedo.png"
   },
   {
     "id": "sharpedo-mega",
@@ -1517,7 +1517,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/sharpedo-mega.webp",
+    "image": "./assets/pokemon/champions-hd/sharpedo-mega.png",
     "megaDebut": "ORAS"
   },
   {
@@ -1534,7 +1534,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/camerupt.webp"
+    "image": "./assets/pokemon/champions-hd/camerupt.png"
   },
   {
     "id": "camerupt-mega",
@@ -1550,7 +1550,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/camerupt-mega.webp",
+    "image": "./assets/pokemon/champions-hd/camerupt-mega.png",
     "megaDebut": "ORAS"
   },
   {
@@ -1566,7 +1566,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/torkoal.webp"
+    "image": "./assets/pokemon/champions-hd/torkoal.png"
   },
   {
     "id": "altaria",
@@ -1582,7 +1582,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/altaria.webp"
+    "image": "./assets/pokemon/champions-hd/altaria.png"
   },
   {
     "id": "altaria-mega",
@@ -1598,7 +1598,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/altaria-mega.webp",
+    "image": "./assets/pokemon/champions-hd/altaria-mega.png",
     "megaDebut": "ORAS"
   },
   {
@@ -1614,7 +1614,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/milotic.webp"
+    "image": "./assets/pokemon/champions-hd/milotic.png"
   },
   {
     "id": "castform",
@@ -1629,7 +1629,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/castform.webp"
+    "image": "./assets/pokemon/champions-hd/castform.png"
   },
   {
     "id": "banette",
@@ -1644,7 +1644,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/banette.webp"
+    "image": "./assets/pokemon/champions-hd/banette.png"
   },
   {
     "id": "banette-mega",
@@ -1659,7 +1659,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/banette-mega.webp",
+    "image": "./assets/pokemon/champions-hd/banette-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -1675,7 +1675,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/chimecho.webp"
+    "image": "./assets/pokemon/champions-hd/chimecho.png"
   },
   {
     "id": "chimecho-mega",
@@ -1691,7 +1691,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/chimecho-mega.webp",
+    "image": "./assets/pokemon/champions-hd/chimecho-mega.png",
     "megaDebut": "ZA DLC"
   },
   {
@@ -1707,7 +1707,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/absol.webp"
+    "image": "./assets/pokemon/champions-hd/absol.png"
   },
   {
     "id": "absol-mega",
@@ -1722,7 +1722,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/absol-mega.webp",
+    "image": "./assets/pokemon/champions-hd/absol-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -1739,7 +1739,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/absol-mega-z.webp",
+    "image": "./assets/pokemon/champions-hd/absol-mega-z.png",
     "megaDebut": "ZA DLC"
   },
   {
@@ -1755,7 +1755,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/glalie.webp"
+    "image": "./assets/pokemon/champions-hd/glalie.png"
   },
   {
     "id": "glalie-mega",
@@ -1770,7 +1770,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/glalie-mega.webp",
+    "image": "./assets/pokemon/champions-hd/glalie-mega.png",
     "megaDebut": "ORAS"
   },
   {
@@ -1787,7 +1787,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/torterra.webp"
+    "image": "./assets/pokemon/champions-hd/torterra.png"
   },
   {
     "id": "infernape",
@@ -1803,7 +1803,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/infernape.webp"
+    "image": "./assets/pokemon/champions-hd/infernape.png"
   },
   {
     "id": "empoleon",
@@ -1819,7 +1819,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/empoleon.webp"
+    "image": "./assets/pokemon/champions-hd/empoleon.png"
   },
   {
     "id": "luxray",
@@ -1834,7 +1834,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/luxray.webp"
+    "image": "./assets/pokemon/champions-hd/luxray.png"
   },
   {
     "id": "roserade",
@@ -1850,7 +1850,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/roserade.webp"
+    "image": "./assets/pokemon/champions-hd/roserade.png"
   },
   {
     "id": "rampardos",
@@ -1865,7 +1865,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/rampardos.webp"
+    "image": "./assets/pokemon/champions-hd/rampardos.png"
   },
   {
     "id": "bastiodon",
@@ -1881,7 +1881,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/bastiodon.webp"
+    "image": "./assets/pokemon/champions-hd/bastiodon.png"
   },
   {
     "id": "lopunny",
@@ -1896,7 +1896,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/lopunny.webp"
+    "image": "./assets/pokemon/champions-hd/lopunny.png"
   },
   {
     "id": "lopunny-mega",
@@ -1912,7 +1912,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/lopunny-mega.webp",
+    "image": "./assets/pokemon/champions-hd/lopunny-mega.png",
     "megaDebut": "ORAS"
   },
   {
@@ -1929,7 +1929,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/spiritomb.webp"
+    "image": "./assets/pokemon/champions-hd/spiritomb.png"
   },
   {
     "id": "garchomp",
@@ -1945,7 +1945,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/烈咬陸鯊.png"
+    "image": "./assets/pokemon/champions-hd/garchomp.png"
   },
   {
     "id": "garchomp-mega",
@@ -1961,7 +1961,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/Mega烈咬陸鯊.png",
+    "image": "./assets/pokemon/champions-hd/garchomp-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -1977,7 +1977,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/Mega烈咬陸鯊Z.png",
+    "image": "./assets/pokemon/champions-hd/garchomp-mega-z.png",
     "megaDebut": "ZA DLC"
   },
   {
@@ -1994,7 +1994,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/lucario.webp"
+    "image": "./assets/pokemon/champions-hd/lucario.png"
   },
   {
     "id": "lucario-mega",
@@ -2010,7 +2010,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/lucario-mega.webp",
+    "image": "./assets/pokemon/champions-hd/lucario-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -2027,7 +2027,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/lucario-mega-z.webp",
+    "image": "./assets/pokemon/champions-hd/lucario-mega-z.png",
     "megaDebut": "ZA DLC"
   },
   {
@@ -2043,7 +2043,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/hippowdon.webp"
+    "image": "./assets/pokemon/champions-hd/hippowdon.png"
   },
   {
     "id": "toxicroak",
@@ -2059,7 +2059,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/toxicroak.webp"
+    "image": "./assets/pokemon/champions-hd/toxicroak.png"
   },
   {
     "id": "abomasnow",
@@ -2075,7 +2075,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/abomasnow.webp"
+    "image": "./assets/pokemon/champions-hd/abomasnow.png"
   },
   {
     "id": "abomasnow-mega",
@@ -2091,7 +2091,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/abomasnow-mega.webp",
+    "image": "./assets/pokemon/champions-hd/abomasnow-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -2108,7 +2108,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/weavile.webp"
+    "image": "./assets/pokemon/champions-hd/weavile.png"
   },
   {
     "id": "rhyperior",
@@ -2124,7 +2124,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/rhyperior.webp"
+    "image": "./assets/pokemon/champions-hd/rhyperior.png"
   },
   {
     "id": "leafeon",
@@ -2139,7 +2139,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/leafeon.webp"
+    "image": "./assets/pokemon/champions-hd/leafeon.png"
   },
   {
     "id": "glaceon",
@@ -2154,7 +2154,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/glaceon.webp"
+    "image": "./assets/pokemon/champions-hd/glaceon.png"
   },
   {
     "id": "gliscor",
@@ -2170,7 +2170,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/gliscor.webp"
+    "image": "./assets/pokemon/champions-hd/gliscor.png"
   },
   {
     "id": "mamoswine",
@@ -2186,7 +2186,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/mamoswine.webp"
+    "image": "./assets/pokemon/champions-hd/mamoswine.png"
   },
   {
     "id": "gallade",
@@ -2202,7 +2202,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/gallade.webp"
+    "image": "./assets/pokemon/champions-hd/gallade.png"
   },
   {
     "id": "gallade-mega",
@@ -2218,7 +2218,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/gallade-mega.webp",
+    "image": "./assets/pokemon/champions-hd/gallade-mega.png",
     "megaDebut": "ORAS"
   },
   {
@@ -2235,7 +2235,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/雪妖女.png"
+    "image": "./assets/pokemon/champions-hd/froslass.png"
   },
   {
     "id": "froslass-mega",
@@ -2251,7 +2251,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/Mega雪妖女.png",
+    "image": "./assets/pokemon/champions-hd/froslass-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -2268,7 +2268,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/rotom.webp"
+    "image": "./assets/pokemon/champions-hd/rotom.png"
   },
   {
     "id": "rotom-frost",
@@ -2284,7 +2284,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/rotom-frost.webp"
+    "image": "./assets/pokemon/champions-hd/rotom-frost.png"
   },
   {
     "id": "rotom-fan",
@@ -2300,7 +2300,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/rotom-fan.webp"
+    "image": "./assets/pokemon/champions-hd/rotom-fan.png"
   },
   {
     "id": "rotom-heat",
@@ -2316,7 +2316,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/rotom-heat.webp"
+    "image": "./assets/pokemon/champions-hd/rotom-heat.png"
   },
   {
     "id": "rotom-mow",
@@ -2332,7 +2332,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/rotom-mow.webp"
+    "image": "./assets/pokemon/champions-hd/rotom-mow.png"
   },
   {
     "id": "rotom-wash",
@@ -2348,7 +2348,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/rotom-wash.webp"
+    "image": "./assets/pokemon/champions-hd/rotom-wash.png"
   },
   {
     "id": "serperior",
@@ -2363,7 +2363,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/serperior.webp"
+    "image": "./assets/pokemon/champions-hd/serperior.png"
   },
   {
     "id": "emboar",
@@ -2379,7 +2379,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/emboar.webp"
+    "image": "./assets/pokemon/champions-hd/emboar.png"
   },
   {
     "id": "emboar-mega",
@@ -2395,7 +2395,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/emboar-mega.webp",
+    "image": "./assets/pokemon/champions-hd/emboar-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -2411,7 +2411,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/samurott.webp"
+    "image": "./assets/pokemon/champions-hd/samurott.png"
   },
   {
     "id": "samurott-hisui",
@@ -2427,7 +2427,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/samurott-hisui.webp"
+    "image": "./assets/pokemon/champions-hd/samurott-hisui.png"
   },
   {
     "id": "watchog",
@@ -2442,7 +2442,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/watchog.webp"
+    "image": "./assets/pokemon/champions-hd/watchog.png"
   },
   {
     "id": "liepard",
@@ -2457,7 +2457,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/liepard.webp"
+    "image": "./assets/pokemon/champions-hd/liepard.png"
   },
   {
     "id": "simisage",
@@ -2472,7 +2472,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/simisage.webp"
+    "image": "./assets/pokemon/champions-hd/simisage.png"
   },
   {
     "id": "simisear",
@@ -2487,7 +2487,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/simisear.webp"
+    "image": "./assets/pokemon/champions-hd/simisear.png"
   },
   {
     "id": "simipour",
@@ -2502,7 +2502,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/simipour.webp"
+    "image": "./assets/pokemon/champions-hd/simipour.png"
   },
   {
     "id": "excadrill",
@@ -2518,7 +2518,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/excadrill.webp"
+    "image": "./assets/pokemon/champions-hd/excadrill.png"
   },
   {
     "id": "excadrill-mega",
@@ -2534,7 +2534,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/excadrill-mega.webp",
+    "image": "./assets/pokemon/champions-hd/excadrill-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -2550,7 +2550,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/audino.webp"
+    "image": "./assets/pokemon/champions-hd/audino.png"
   },
   {
     "id": "audino-mega",
@@ -2566,7 +2566,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/audino-mega.webp",
+    "image": "./assets/pokemon/champions-hd/audino-mega.png",
     "megaDebut": "ORAS"
   },
   {
@@ -2582,7 +2582,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/conkeldurr.webp"
+    "image": "./assets/pokemon/champions-hd/conkeldurr.png"
   },
   {
     "id": "whimsicott",
@@ -2598,7 +2598,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/whimsicott.webp"
+    "image": "./assets/pokemon/champions-hd/whimsicott.png"
   },
   {
     "id": "krookodile",
@@ -2614,7 +2614,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/krookodile.webp"
+    "image": "./assets/pokemon/champions-hd/krookodile.png"
   },
   {
     "id": "cofagrigus",
@@ -2629,7 +2629,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/cofagrigus.webp"
+    "image": "./assets/pokemon/champions-hd/cofagrigus.png"
   },
   {
     "id": "garbodor",
@@ -2644,7 +2644,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/garbodor.webp"
+    "image": "./assets/pokemon/champions-hd/garbodor.png"
   },
   {
     "id": "zoroark",
@@ -2659,7 +2659,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/zoroark.webp"
+    "image": "./assets/pokemon/champions-hd/zoroark.png"
   },
   {
     "id": "zoroark-hisui",
@@ -2675,7 +2675,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/zoroark-hisui.webp"
+    "image": "./assets/pokemon/champions-hd/zoroark-hisui.png"
   },
   {
     "id": "reuniclus",
@@ -2690,7 +2690,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/reuniclus.webp"
+    "image": "./assets/pokemon/champions-hd/reuniclus.png"
   },
   {
     "id": "vanilluxe",
@@ -2705,7 +2705,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/vanilluxe.webp"
+    "image": "./assets/pokemon/champions-hd/vanilluxe.png"
   },
   {
     "id": "emolga",
@@ -2721,7 +2721,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/emolga.webp"
+    "image": "./assets/pokemon/champions-hd/emolga.png"
   },
   {
     "id": "chandelure",
@@ -2737,7 +2737,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/水晶燈火靈.png"
+    "image": "./assets/pokemon/champions-hd/chandelure.png"
   },
   {
     "id": "chandelure-mega",
@@ -2753,7 +2753,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/chandelure-mega.webp",
+    "image": "./assets/pokemon/champions-hd/chandelure-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -2769,7 +2769,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/beartic.webp"
+    "image": "./assets/pokemon/champions-hd/beartic.png"
   },
   {
     "id": "stunfisk",
@@ -2785,7 +2785,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/stunfisk.webp"
+    "image": "./assets/pokemon/champions-hd/stunfisk.png"
   },
   {
     "id": "stunfisk-galar",
@@ -2801,7 +2801,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/stunfisk-galar.webp"
+    "image": "./assets/pokemon/champions-hd/stunfisk-galar.png"
   },
   {
     "id": "golurk",
@@ -2817,7 +2817,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/golurk.webp"
+    "image": "./assets/pokemon/champions-hd/golurk.png"
   },
   {
     "id": "golurk-mega",
@@ -2833,7 +2833,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/golurk-mega.webp",
+    "image": "./assets/pokemon/champions-hd/golurk-mega.png",
     "megaDebut": "ZA DLC"
   },
   {
@@ -2850,7 +2850,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/hydreigon.webp"
+    "image": "./assets/pokemon/champions-hd/hydreigon.png"
   },
   {
     "id": "volcarona",
@@ -2866,7 +2866,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/volcarona.webp"
+    "image": "./assets/pokemon/champions-hd/volcarona.png"
   },
   {
     "id": "chesnaught",
@@ -2882,7 +2882,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/chesnaught.webp"
+    "image": "./assets/pokemon/champions-hd/chesnaught.png"
   },
   {
     "id": "chesnaught-mega",
@@ -2898,7 +2898,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/chesnaught-mega.webp",
+    "image": "./assets/pokemon/champions-hd/chesnaught-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -2915,7 +2915,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/delphox.webp"
+    "image": "./assets/pokemon/champions-hd/delphox.png"
   },
   {
     "id": "delphox-mega",
@@ -2931,7 +2931,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/delphox-mega.webp",
+    "image": "./assets/pokemon/champions-hd/delphox-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -2948,7 +2948,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/greninja.webp"
+    "image": "./assets/pokemon/champions-hd/greninja.png"
   },
   {
     "id": "greninja-mega",
@@ -2964,7 +2964,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/greninja-mega.webp",
+    "image": "./assets/pokemon/champions-hd/greninja-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -2981,7 +2981,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/diggersby.webp"
+    "image": "./assets/pokemon/champions-hd/diggersby.png"
   },
   {
     "id": "talonflame",
@@ -2997,7 +2997,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/talonflame.webp"
+    "image": "./assets/pokemon/champions-hd/talonflame.png"
   },
   {
     "id": "vivillon-meadow",
@@ -3013,7 +3013,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/vivillon-meadow.webp"
+    "image": "./assets/pokemon/champions-hd/vivillon-meadow.png"
   },
   {
     "id": "eternal-flower-floette",
@@ -3028,7 +3028,7 @@
     "fullyEvolved": false,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/eternal-flower-floette.webp"
+    "image": "./assets/pokemon/champions-hd/eternal-flower-floette.png"
   },
   {
     "id": "floette-mega",
@@ -3043,7 +3043,7 @@
     "fullyEvolved": false,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/floette-mega.webp",
+    "image": "./assets/pokemon/champions-hd/floette-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -3059,7 +3059,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/florges-red.webp"
+    "image": "./assets/pokemon/champions-hd/florges-red.png"
   },
   {
     "id": "pangoro",
@@ -3075,7 +3075,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/pangoro.webp"
+    "image": "./assets/pokemon/champions-hd/pangoro.png"
   },
   {
     "id": "furfrou-natural",
@@ -3090,7 +3090,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/furfrou-natural.webp"
+    "image": "./assets/pokemon/champions-hd/furfrou-natural.png"
   },
   {
     "id": "meowstic",
@@ -3105,7 +3105,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/meowstic.webp"
+    "image": "./assets/pokemon/champions-hd/meowstic.png"
   },
   {
     "id": "female-meowstic",
@@ -3120,7 +3120,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/female-meowstic.webp"
+    "image": "./assets/pokemon/champions-hd/female-meowstic.png"
   },
   {
     "id": "meowstic-mega",
@@ -3135,7 +3135,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/meowstic-mega.webp",
+    "image": "./assets/pokemon/champions-hd/meowstic-mega.png",
     "megaDebut": "ZA DLC"
   },
   {
@@ -3152,7 +3152,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/aegislash-shield.webp"
+    "image": "./assets/pokemon/champions-hd/aegislash-shield.png"
   },
   {
     "id": "aegislash-blade",
@@ -3168,7 +3168,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/aegislash-blade.webp"
+    "image": "./assets/pokemon/champions-hd/aegislash-blade.png"
   },
   {
     "id": "aromatisse",
@@ -3183,7 +3183,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/aromatisse.webp"
+    "image": "./assets/pokemon/champions-hd/aromatisse.png"
   },
   {
     "id": "slurpuff",
@@ -3198,7 +3198,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/slurpuff.webp"
+    "image": "./assets/pokemon/champions-hd/slurpuff.png"
   },
   {
     "id": "clawitzer",
@@ -3213,7 +3213,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/clawitzer.webp"
+    "image": "./assets/pokemon/champions-hd/clawitzer.png"
   },
   {
     "id": "heliolisk",
@@ -3229,7 +3229,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/heliolisk.webp"
+    "image": "./assets/pokemon/champions-hd/heliolisk.png"
   },
   {
     "id": "tyrantrum",
@@ -3245,7 +3245,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/tyrantrum.webp"
+    "image": "./assets/pokemon/champions-hd/tyrantrum.png"
   },
   {
     "id": "aurorus",
@@ -3261,7 +3261,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/aurorus.webp"
+    "image": "./assets/pokemon/champions-hd/aurorus.png"
   },
   {
     "id": "sylveon",
@@ -3276,7 +3276,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/sylveon.webp"
+    "image": "./assets/pokemon/champions-hd/sylveon.png"
   },
   {
     "id": "hawlucha",
@@ -3292,7 +3292,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/摔角鷹人.png"
+    "image": "./assets/pokemon/champions-hd/hawlucha.png"
   },
   {
     "id": "hawlucha-mega",
@@ -3308,7 +3308,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/Mega摔角鷹人.png",
+    "image": "./assets/pokemon/champions-hd/hawlucha-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -3325,7 +3325,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/dedenne.webp"
+    "image": "./assets/pokemon/champions-hd/dedenne.png"
   },
   {
     "id": "goodra",
@@ -3340,7 +3340,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/goodra.webp"
+    "image": "./assets/pokemon/champions-hd/goodra.png"
   },
   {
     "id": "goodra-hisui",
@@ -3356,7 +3356,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/goodra-hisui.webp"
+    "image": "./assets/pokemon/champions-hd/goodra-hisui.png"
   },
   {
     "id": "klefki",
@@ -3372,7 +3372,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/klefki.webp"
+    "image": "./assets/pokemon/champions-hd/klefki.png"
   },
   {
     "id": "trevenant",
@@ -3388,7 +3388,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/trevenant.webp"
+    "image": "./assets/pokemon/champions-hd/trevenant.png"
   },
   {
     "id": "gourgeist-average",
@@ -3404,7 +3404,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/gourgeist-average.webp"
+    "image": "./assets/pokemon/champions-hd/gourgeist-average.png"
   },
   {
     "id": "gourgeist-super",
@@ -3420,7 +3420,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/gourgeist-super.webp"
+    "image": "./assets/pokemon/champions-hd/gourgeist-super.png"
   },
   {
     "id": "gourgeist-large",
@@ -3436,7 +3436,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/gourgeist-large.webp"
+    "image": "./assets/pokemon/champions-hd/gourgeist-large.png"
   },
   {
     "id": "gourgeist-small",
@@ -3452,7 +3452,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/gourgeist-small.webp"
+    "image": "./assets/pokemon/champions-hd/gourgeist-small.png"
   },
   {
     "id": "avalugg",
@@ -3467,7 +3467,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/avalugg.webp"
+    "image": "./assets/pokemon/champions-hd/avalugg.png"
   },
   {
     "id": "avalugg-hisui",
@@ -3483,7 +3483,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/avalugg-hisui.webp"
+    "image": "./assets/pokemon/champions-hd/avalugg-hisui.png"
   },
   {
     "id": "noivern",
@@ -3499,7 +3499,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/noivern.webp"
+    "image": "./assets/pokemon/champions-hd/noivern.png"
   },
   {
     "id": "decidueye",
@@ -3515,7 +3515,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/decidueye.webp"
+    "image": "./assets/pokemon/champions-hd/decidueye.png"
   },
   {
     "id": "decidueye-hisui",
@@ -3531,7 +3531,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/decidueye-hisui.webp"
+    "image": "./assets/pokemon/champions-hd/decidueye-hisui.png"
   },
   {
     "id": "incineroar",
@@ -3547,7 +3547,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/熾焰咆哮虎.png"
+    "image": "./assets/pokemon/champions-hd/incineroar.png"
   },
   {
     "id": "primarina",
@@ -3563,7 +3563,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/primarina.webp"
+    "image": "./assets/pokemon/champions-hd/primarina.png"
   },
   {
     "id": "toucannon",
@@ -3579,7 +3579,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/toucannon.webp"
+    "image": "./assets/pokemon/champions-hd/toucannon.png"
   },
   {
     "id": "crabominable",
@@ -3595,7 +3595,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/crabominable.webp"
+    "image": "./assets/pokemon/champions-hd/crabominable.png"
   },
   {
     "id": "crabominable-mega",
@@ -3611,7 +3611,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/crabominable-mega.webp",
+    "image": "./assets/pokemon/champions-hd/crabominable-mega.png",
     "megaDebut": "ZA DLC"
   },
   {
@@ -3627,7 +3627,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/lycanroc-midday.webp"
+    "image": "./assets/pokemon/champions-hd/lycanroc-midday.png"
   },
   {
     "id": "lycanroc-midnight",
@@ -3642,7 +3642,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/lycanroc-midnight.webp"
+    "image": "./assets/pokemon/champions-hd/lycanroc-midnight.png"
   },
   {
     "id": "lycanroc-dusk",
@@ -3657,7 +3657,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/lycanroc-dusk.webp"
+    "image": "./assets/pokemon/champions-hd/lycanroc-dusk.png"
   },
   {
     "id": "toxapex",
@@ -3673,7 +3673,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/toxapex.webp"
+    "image": "./assets/pokemon/champions-hd/toxapex.png"
   },
   {
     "id": "mudsdale",
@@ -3688,7 +3688,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/mudsdale.webp"
+    "image": "./assets/pokemon/champions-hd/mudsdale.png"
   },
   {
     "id": "araquanid",
@@ -3704,7 +3704,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/araquanid.webp"
+    "image": "./assets/pokemon/champions-hd/araquanid.png"
   },
   {
     "id": "salazzle",
@@ -3720,7 +3720,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/salazzle.webp"
+    "image": "./assets/pokemon/champions-hd/salazzle.png"
   },
   {
     "id": "tsareena",
@@ -3735,7 +3735,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/tsareena.webp"
+    "image": "./assets/pokemon/champions-hd/tsareena.png"
   },
   {
     "id": "oranguru",
@@ -3751,7 +3751,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/oranguru.webp"
+    "image": "./assets/pokemon/champions-hd/oranguru.png"
   },
   {
     "id": "passimian",
@@ -3766,7 +3766,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/passimian.webp"
+    "image": "./assets/pokemon/champions-hd/passimian.png"
   },
   {
     "id": "mimikyu",
@@ -3782,7 +3782,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/謎擬Ｑ.png"
+    "image": "./assets/pokemon/champions-hd/mimikyu.png"
   },
   {
     "id": "drampa",
@@ -3798,7 +3798,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/drampa.webp"
+    "image": "./assets/pokemon/champions-hd/drampa.png"
   },
   {
     "id": "drampa-mega",
@@ -3814,7 +3814,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/drampa-mega.webp",
+    "image": "./assets/pokemon/champions-hd/drampa-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -3831,7 +3831,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/kommo-o.webp"
+    "image": "./assets/pokemon/champions-hd/kommo-o.png"
   },
   {
     "id": "corviknight",
@@ -3847,7 +3847,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/corviknight.webp"
+    "image": "./assets/pokemon/champions-hd/corviknight.png"
   },
   {
     "id": "flapple",
@@ -3863,7 +3863,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/flapple.webp"
+    "image": "./assets/pokemon/champions-hd/flapple.png"
   },
   {
     "id": "appletun",
@@ -3879,7 +3879,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/appletun.webp"
+    "image": "./assets/pokemon/champions-hd/appletun.png"
   },
   {
     "id": "sandaconda",
@@ -3894,7 +3894,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/sandaconda.webp"
+    "image": "./assets/pokemon/champions-hd/sandaconda.png"
   },
   {
     "id": "polteageist-phony",
@@ -3909,7 +3909,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/polteageist-phony.webp"
+    "image": "./assets/pokemon/champions-hd/polteageist-phony.png"
   },
   {
     "id": "hatterene",
@@ -3925,7 +3925,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/hatterene.webp"
+    "image": "./assets/pokemon/champions-hd/hatterene.png"
   },
   {
     "id": "mr-rime",
@@ -3941,7 +3941,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/mr-rime.webp"
+    "image": "./assets/pokemon/champions-hd/mr-rime.png"
   },
   {
     "id": "runerigus",
@@ -3957,7 +3957,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/runerigus.webp"
+    "image": "./assets/pokemon/champions-hd/runerigus.png"
   },
   {
     "id": "alcremie-vanilla-cream",
@@ -3972,7 +3972,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/alcremie-vanilla-cream.webp"
+    "image": "./assets/pokemon/champions-hd/alcremie-vanilla-cream.png"
   },
   {
     "id": "morpeko-full-belly",
@@ -3988,7 +3988,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/morpeko-full-belly.webp"
+    "image": "./assets/pokemon/champions-hd/morpeko-full-belly.png"
   },
   {
     "id": "dragapult",
@@ -4004,7 +4004,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/多龍巴魯托.png"
+    "image": "./assets/pokemon/champions-hd/dragapult.png"
   },
   {
     "id": "wyrdeer",
@@ -4020,7 +4020,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/wyrdeer.webp"
+    "image": "./assets/pokemon/champions-hd/wyrdeer.png"
   },
   {
     "id": "kleavor",
@@ -4036,7 +4036,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/kleavor.webp"
+    "image": "./assets/pokemon/champions-hd/kleavor.png"
   },
   {
     "id": "basculegion",
@@ -4052,7 +4052,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/basculegion.webp"
+    "image": "./assets/pokemon/champions-hd/basculegion.png"
   },
   {
     "id": "female-basculegion",
@@ -4068,7 +4068,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/female-basculegion.webp"
+    "image": "./assets/pokemon/champions-hd/female-basculegion.png"
   },
   {
     "id": "sneasler",
@@ -4084,7 +4084,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/sneasler.webp"
+    "image": "./assets/pokemon/champions-hd/sneasler.png"
   },
   {
     "id": "meowscarada",
@@ -4100,7 +4100,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/meowscarada.webp"
+    "image": "./assets/pokemon/champions-hd/meowscarada.png"
   },
   {
     "id": "skeledirge",
@@ -4116,7 +4116,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/skeledirge.webp"
+    "image": "./assets/pokemon/champions-hd/skeledirge.png"
   },
   {
     "id": "quaquaval",
@@ -4132,7 +4132,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/quaquaval.webp"
+    "image": "./assets/pokemon/champions-hd/quaquaval.png"
   },
   {
     "id": "maushold-family-of-four",
@@ -4147,7 +4147,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/maushold-family-of-four.webp"
+    "image": "./assets/pokemon/champions-hd/maushold-family-of-four.png"
   },
   {
     "id": "garganacl",
@@ -4162,7 +4162,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/garganacl.webp"
+    "image": "./assets/pokemon/champions-hd/garganacl.png"
   },
   {
     "id": "armarouge",
@@ -4178,7 +4178,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/armarouge.webp"
+    "image": "./assets/pokemon/champions-hd/armarouge.png"
   },
   {
     "id": "ceruledge",
@@ -4194,7 +4194,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/ceruledge.webp"
+    "image": "./assets/pokemon/champions-hd/ceruledge.png"
   },
   {
     "id": "bellibolt",
@@ -4209,7 +4209,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/bellibolt.webp"
+    "image": "./assets/pokemon/champions-hd/bellibolt.png"
   },
   {
     "id": "scovillain",
@@ -4225,7 +4225,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/scovillain.webp"
+    "image": "./assets/pokemon/champions-hd/scovillain.png"
   },
   {
     "id": "scovillain-mega",
@@ -4241,7 +4241,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/scovillain-mega.webp",
+    "image": "./assets/pokemon/champions-hd/scovillain-mega.png",
     "megaDebut": "ZA DLC"
   },
   {
@@ -4257,7 +4257,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/espathra.webp"
+    "image": "./assets/pokemon/champions-hd/espathra.png"
   },
   {
     "id": "tinkaton",
@@ -4273,7 +4273,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/tinkaton.webp"
+    "image": "./assets/pokemon/champions-hd/tinkaton.png"
   },
   {
     "id": "palafin-zero",
@@ -4288,7 +4288,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/palafin-zero.webp"
+    "image": "./assets/pokemon/champions-hd/palafin-zero.png"
   },
   {
     "id": "palafin-hero",
@@ -4303,7 +4303,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/palafin-hero.webp"
+    "image": "./assets/pokemon/champions-hd/palafin-hero.png"
   },
   {
     "id": "orthworm",
@@ -4318,7 +4318,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/orthworm.webp"
+    "image": "./assets/pokemon/champions-hd/orthworm.png"
   },
   {
     "id": "glimmora",
@@ -4334,7 +4334,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/glimmora.webp"
+    "image": "./assets/pokemon/champions-hd/glimmora.png"
   },
   {
     "id": "glimmora-mega",
@@ -4350,7 +4350,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/glimmora-mega.webp",
+    "image": "./assets/pokemon/champions-hd/glimmora-mega.png",
     "megaDebut": "ZA DLC"
   },
   {
@@ -4367,7 +4367,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/奇麒麟.png"
+    "image": "./assets/pokemon/champions-hd/farigiraf.png"
   },
   {
     "id": "kingambit",
@@ -4383,7 +4383,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/kingambit.webp"
+    "image": "./assets/pokemon/champions-hd/kingambit.png"
   },
   {
     "id": "sinistcha-unremarkable",
@@ -4399,7 +4399,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/sinistcha-unremarkable.webp"
+    "image": "./assets/pokemon/champions-hd/sinistcha-unremarkable.png"
   },
   {
     "id": "archaludon",
@@ -4415,7 +4415,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/archaludon.webp"
+    "image": "./assets/pokemon/champions-hd/archaludon.png"
   },
   {
     "id": "hydrapple",
@@ -4431,7 +4431,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/hydrapple.webp"
+    "image": "./assets/pokemon/champions-hd/hydrapple.png"
   },
   {
     "id": "vileplume",
@@ -4447,7 +4447,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/vileplume.webp"
+    "image": "./assets/pokemon/champions-hd/vileplume.png"
   },
   {
     "id": "qwilfish",
@@ -4463,7 +4463,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/qwilfish.webp"
+    "image": "./assets/pokemon/champions-hd/qwilfish.png"
   },
   {
     "id": "sceptile",
@@ -4478,7 +4478,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/蜥蜴王.png"
+    "image": "./assets/pokemon/champions-hd/sceptile.png"
   },
   {
     "id": "sceptile-mega",
@@ -4494,7 +4494,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/Mega蜥蜴王.png",
+    "image": "./assets/pokemon/champions-hd/sceptile-mega.png",
     "megaDebut": "ORAS"
   },
   {
@@ -4511,7 +4511,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/blaziken.webp"
+    "image": "./assets/pokemon/champions-hd/blaziken.png"
   },
   {
     "id": "blaziken-mega",
@@ -4527,7 +4527,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/blaziken-mega.webp",
+    "image": "./assets/pokemon/champions-hd/blaziken-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -4544,7 +4544,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/swampert.webp"
+    "image": "./assets/pokemon/champions-hd/swampert.png"
   },
   {
     "id": "swampert-mega",
@@ -4560,7 +4560,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/swampert-mega.webp",
+    "image": "./assets/pokemon/champions-hd/swampert-mega.png",
     "megaDebut": "ORAS"
   },
   {
@@ -4577,7 +4577,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/mawile.webp"
+    "image": "./assets/pokemon/champions-hd/mawile.png"
   },
   {
     "id": "mawile-mega",
@@ -4593,7 +4593,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/mawile-mega.webp",
+    "image": "./assets/pokemon/champions-hd/mawile-mega.png",
     "megaDebut": "XY"
   },
   {
@@ -4610,7 +4610,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/metagross.webp"
+    "image": "./assets/pokemon/champions-hd/metagross.png"
   },
   {
     "id": "metagross-mega",
@@ -4626,7 +4626,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/metagross-mega.webp",
+    "image": "./assets/pokemon/champions-hd/metagross-mega.png",
     "megaDebut": "ORAS"
   },
   {
@@ -4643,7 +4643,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/staraptor.webp"
+    "image": "./assets/pokemon/champions-hd/staraptor.png"
   },
   {
     "id": "staraptor-mega",
@@ -4659,7 +4659,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/staraptor-mega.webp",
+    "image": "./assets/pokemon/champions-hd/staraptor-mega.png",
     "megaDebut": "ZA DLC"
   },
   {
@@ -4675,7 +4675,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/musharna.webp"
+    "image": "./assets/pokemon/champions-hd/musharna.png"
   },
   {
     "id": "scolipede",
@@ -4691,7 +4691,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/scolipede.webp"
+    "image": "./assets/pokemon/champions-hd/scolipede.png"
   },
   {
     "id": "scolipede-mega",
@@ -4707,7 +4707,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/scolipede-mega.webp",
+    "image": "./assets/pokemon/champions-hd/scolipede-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -4724,7 +4724,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/scrafty.webp"
+    "image": "./assets/pokemon/champions-hd/scrafty.png"
   },
   {
     "id": "scrafty-mega",
@@ -4740,7 +4740,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/scrafty-mega.webp",
+    "image": "./assets/pokemon/champions-hd/scrafty-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -4756,7 +4756,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/eelektross.webp"
+    "image": "./assets/pokemon/champions-hd/eelektross.png"
   },
   {
     "id": "eelektross-mega",
@@ -4771,7 +4771,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/eelektross-mega.webp",
+    "image": "./assets/pokemon/champions-hd/eelektross-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -4788,7 +4788,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/pyroar-male.webp",
+    "image": "./assets/pokemon/champions-hd/pyroar-male.png",
     "gender": "male"
   },
   {
@@ -4805,7 +4805,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/pyroar-female.webp",
+    "image": "./assets/pokemon/champions-hd/pyroar-female.png",
     "gender": "female"
   },
   {
@@ -4822,7 +4822,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/pyroar-mega.webp",
+    "image": "./assets/pokemon/champions-hd/pyroar-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -4839,7 +4839,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/malamar.webp"
+    "image": "./assets/pokemon/champions-hd/malamar.png"
   },
   {
     "id": "malamar-mega",
@@ -4855,7 +4855,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/malamar-mega.webp",
+    "image": "./assets/pokemon/champions-hd/malamar-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -4872,7 +4872,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/barbaracle.webp"
+    "image": "./assets/pokemon/champions-hd/barbaracle.png"
   },
   {
     "id": "barbaracle-mega",
@@ -4888,7 +4888,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/barbaracle-mega.webp",
+    "image": "./assets/pokemon/champions-hd/barbaracle-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -4905,7 +4905,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/dragalge.webp"
+    "image": "./assets/pokemon/champions-hd/dragalge.png"
   },
   {
     "id": "dragalge-mega",
@@ -4921,7 +4921,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/dragalge-mega.webp",
+    "image": "./assets/pokemon/champions-hd/dragalge-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -4938,7 +4938,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/grimmsnarl.webp"
+    "image": "./assets/pokemon/champions-hd/grimmsnarl.png"
   },
   {
     "id": "falinks",
@@ -4953,7 +4953,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/falinks.webp"
+    "image": "./assets/pokemon/champions-hd/falinks.png"
   },
   {
     "id": "falinks-mega",
@@ -4968,7 +4968,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/falinks-mega.webp",
+    "image": "./assets/pokemon/champions-hd/falinks-mega.png",
     "megaDebut": "ZA"
   },
   {
@@ -4985,7 +4985,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/overqwil.webp"
+    "image": "./assets/pokemon/champions-hd/overqwil.png"
   },
   {
     "id": "houndstone",
@@ -5000,7 +5000,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/houndstone.webp"
+    "image": "./assets/pokemon/champions-hd/houndstone.png"
   },
   {
     "id": "annihilape",
@@ -5016,7 +5016,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/annihilape.webp"
+    "image": "./assets/pokemon/champions-hd/annihilape.png"
   },
   {
     "id": "gholdengo",
@@ -5032,7 +5032,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/gholdengo.webp"
+    "image": "./assets/pokemon/champions-hd/gholdengo.png"
   },
   {
     "id": "wigglytuff",
@@ -5048,7 +5048,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/wigglytuff.webp"
+    "image": "./assets/pokemon/champions-hd/wigglytuff.png"
   },
   {
     "id": "persian",
@@ -5063,7 +5063,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/persian.webp"
+    "image": "./assets/pokemon/champions-hd/persian.png"
   },
   {
     "id": "persian-alola",
@@ -5078,7 +5078,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/persian-alola.webp"
+    "image": "./assets/pokemon/champions-hd/persian-alola.png"
   },
   {
     "id": "farfetch-d",
@@ -5094,7 +5094,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/farfetch-d.webp"
+    "image": "./assets/pokemon/champions-hd/farfetch-d.png"
   },
   {
     "id": "mr-mime",
@@ -5110,7 +5110,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/mr-mime.webp"
+    "image": "./assets/pokemon/champions-hd/mr-mime.png"
   },
   {
     "id": "swalot",
@@ -5125,7 +5125,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/swalot.webp"
+    "image": "./assets/pokemon/champions-hd/swalot.png"
   },
   {
     "id": "salamence",
@@ -5141,7 +5141,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/salamence.webp"
+    "image": "./assets/pokemon/champions-hd/salamence.png"
   },
   {
     "id": "salamence-mega",
@@ -5157,7 +5157,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/salamence-mega.webp",
+    "image": "./assets/pokemon/champions-hd/salamence-mega.png",
     "megaDebut": "ORAS"
   },
   {
@@ -5173,7 +5173,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/gogoat.webp"
+    "image": "./assets/pokemon/champions-hd/gogoat.png"
   },
   {
     "id": "golisopod",
@@ -5189,7 +5189,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/具甲武者.png"
+    "image": "./assets/pokemon/champions-hd/golisopod.png"
   },
   {
     "id": "golisopod-mega",
@@ -5205,7 +5205,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/Mega具甲武者.png",
+    "image": "./assets/pokemon/champions-hd/golisopod-mega.png",
     "megaDebut": "ZA DLC"
   },
   {
@@ -5221,7 +5221,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/轟擂金剛猩.png"
+    "image": "./assets/pokemon/champions-hd/rillaboom.png"
   },
   {
     "id": "cinderace",
@@ -5236,7 +5236,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/cinderace.webp"
+    "image": "./assets/pokemon/champions-hd/cinderace.png"
   },
   {
     "id": "inteleon",
@@ -5251,7 +5251,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/inteleon.webp"
+    "image": "./assets/pokemon/champions-hd/inteleon.png"
   },
   {
     "id": "thievul",
@@ -5266,7 +5266,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/thievul.webp"
+    "image": "./assets/pokemon/champions-hd/thievul.png"
   },
   {
     "id": "toxtricity",
@@ -5282,7 +5282,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/toxtricity.webp"
+    "image": "./assets/pokemon/champions-hd/toxtricity.png"
   },
   {
     "id": "low-key-toxtricity",
@@ -5298,7 +5298,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/low-key-toxtricity.webp"
+    "image": "./assets/pokemon/champions-hd/low-key-toxtricity.png"
   },
   {
     "id": "grapploct",
@@ -5313,7 +5313,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/grapploct.webp"
+    "image": "./assets/pokemon/champions-hd/grapploct.png"
   },
   {
     "id": "perrserker",
@@ -5328,7 +5328,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/perrserker.webp"
+    "image": "./assets/pokemon/champions-hd/perrserker.png"
   },
   {
     "id": "sirfetch-d",
@@ -5343,7 +5343,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/sirfetch-d.webp"
+    "image": "./assets/pokemon/champions-hd/sirfetch-d.png"
   },
   {
     "id": "pincurchin",
@@ -5358,7 +5358,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/pincurchin.webp"
+    "image": "./assets/pokemon/champions-hd/pincurchin.png"
   },
   {
     "id": "indeedee-male",
@@ -5374,7 +5374,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/愛管侍（公）.png",
+    "image": "./assets/pokemon/champions-hd/indeedee-male.png",
     "gender": "male"
   },
   {
@@ -5391,7 +5391,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/愛管侍（母）.png",
+    "image": "./assets/pokemon/champions-hd/indeedee-female.png",
     "gender": "female"
   },
   {
@@ -5408,7 +5408,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/pawmot.webp"
+    "image": "./assets/pokemon/champions-hd/pawmot.png"
   },
   {
     "id": "arboliva",
@@ -5424,7 +5424,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/arboliva.webp"
+    "image": "./assets/pokemon/champions-hd/arboliva.png"
   },
   {
     "id": "squawkabilly-green",
@@ -5440,7 +5440,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/squawkabilly-green.webp"
+    "image": "./assets/pokemon/champions-hd/squawkabilly-green.png"
   },
   {
     "id": "mabosstiff",
@@ -5455,7 +5455,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/mabosstiff.webp"
+    "image": "./assets/pokemon/champions-hd/mabosstiff.png"
   },
   {
     "id": "baxcalibur",
@@ -5471,7 +5471,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": false,
-    "image": "./assets/pokemon/roster/baxcalibur.webp"
+    "image": "./assets/pokemon/champions-hd/baxcalibur.png"
   },
   {
     "id": "baxcalibur-mega",
@@ -5487,7 +5487,7 @@
     "fullyEvolved": true,
     "available": true,
     "mega": true,
-    "image": "./assets/pokemon/roster/baxcalibur-mega.webp",
+    "image": "./assets/pokemon/champions-hd/baxcalibur-mega.png",
     "megaDebut": "ZA DLC"
   }
 ]

@@ -2,239 +2,273 @@
   {
     "id": "pikachu",
     "originalFile": "80px-Champions_0025_Sprite.png",
-    "file": "皮卡丘.png",
+    "file": "champions-hd/pikachu.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/25.png"
   },
   {
     "id": "venusaur",
     "originalFile": "80px-Champions_0003_Sprite.png",
-    "file": "妙蛙花.png",
+    "file": "champions-hd/venusaur.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/3.png"
   },
   {
     "id": "charizard",
     "originalFile": "80px-Champions_0006_Sprite.png",
-    "file": "噴火龍.png",
+    "file": "champions-hd/charizard.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/6.png"
   },
   {
     "id": "blastoise",
     "originalFile": "80px-Champions_0009_Sprite.png",
-    "file": "水箭龜.png",
+    "file": "champions-hd/blastoise.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/9.png"
   },
   {
     "id": "raichu-alola",
     "originalFile": "80px-Champions_0026A_Sprite.png",
-    "file": "雷丘（阿羅拉）.png",
+    "file": "champions-hd/raichu-alola.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/26-regional-a.png"
   },
   {
     "id": "ninetales-alola",
     "originalFile": "80px-Champions_0038A_Sprite.png",
-    "file": "九尾（阿羅拉）.png",
+    "file": "champions-hd/ninetales-alola.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/38-regional-a.png"
   },
   {
     "id": "gengar",
     "originalFile": "80px-Champions_0094_Sprite.png",
-    "file": "耿鬼.png",
+    "file": "champions-hd/gengar.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/94.png"
   },
   {
     "id": "scizor",
     "originalFile": "80px-Champions_0212_Sprite.png",
-    "file": "巨鉗螳螂.png",
+    "file": "champions-hd/scizor.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/212.png"
   },
   {
     "id": "tyranitar",
     "originalFile": "80px-Champions_0248_Sprite.png",
-    "file": "班基拉斯.png",
+    "file": "champions-hd/tyranitar.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/248.png"
   },
   {
     "id": "aggron",
     "originalFile": "80px-Champions_0306_Sprite.png",
-    "file": "波士可多拉.png",
+    "file": "champions-hd/aggron.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/306.png"
   },
   {
     "id": "aggron-mega",
     "originalFile": "80px-Champions_0306M_Sprite.png",
-    "file": "Mega波士可多拉.png",
+    "file": "champions-hd/aggron-mega.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/306-mega.png"
   },
   {
     "id": "garchomp",
     "originalFile": "80px-Champions_0445_Sprite.png",
-    "file": "烈咬陸鯊.png",
+    "file": "champions-hd/garchomp.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/445.png"
   },
   {
     "id": "garchomp-mega",
     "originalFile": "80px-Champions_0445M_Sprite.png",
-    "file": "Mega烈咬陸鯊.png",
+    "file": "champions-hd/garchomp-mega.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/445-mega.png"
   },
   {
     "id": "froslass",
     "originalFile": "80px-Champions_0478_Sprite.png",
-    "file": "雪妖女.png",
+    "file": "champions-hd/froslass.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/478.png"
   },
   {
     "id": "chandelure",
     "originalFile": "80px-Champions_0609_Sprite.png",
-    "file": "水晶燈火靈.png",
+    "file": "champions-hd/chandelure.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/609.png"
   },
   {
     "id": "hawlucha",
     "originalFile": "80px-Champions_0701_Sprite.png",
-    "file": "摔角鷹人.png",
+    "file": "champions-hd/hawlucha.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/701.png"
   },
   {
     "id": "mimikyu",
     "originalFile": "80px-Champions_0778_Sprite.png",
-    "file": "謎擬Ｑ.png",
+    "file": "champions-hd/mimikyu.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/778.png"
   },
   {
     "id": "dragapult",
     "originalFile": "80px-Champions_0887_Sprite.png",
-    "file": "多龍巴魯托.png",
+    "file": "champions-hd/dragapult.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/887.png"
   },
   {
     "id": "farigiraf",
     "originalFile": "80px-Champions_0981_Sprite.png",
-    "file": "奇麒麟.png",
+    "file": "champions-hd/farigiraf.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/981.png"
   },
   {
     "id": "raichu",
     "originalFile": "80px-Champions_0026_Sprite.png",
-    "file": "雷丘.png",
+    "file": "champions-hd/raichu.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/26.png"
   },
   {
     "id": "raichu-mega-x",
     "originalFile": "80px-Champions_0026MX_Sprite.png",
-    "file": "Mega雷丘X.png",
+    "file": "champions-hd/raichu-mega-x.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/26-mega-x.png"
   },
   {
     "id": "raichu-mega-y",
     "originalFile": "80px-Champions_0026MY_Sprite.png",
-    "file": "Mega雷丘Y.png",
+    "file": "champions-hd/raichu-mega-y.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/26-mega-y.png"
   },
   {
     "id": "sceptile",
     "originalFile": "80px-Champions_0254_Sprite.png",
-    "file": "蜥蜴王.png",
+    "file": "champions-hd/sceptile.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/254.png"
   },
   {
     "id": "sceptile-mega",
     "originalFile": "80px-Champions_0254M_Sprite.png",
-    "file": "Mega蜥蜴王.png",
+    "file": "champions-hd/sceptile-mega.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/254-mega.png"
   },
   {
     "id": "froslass-mega",
     "originalFile": "80px-Champions_0478M_Sprite.png",
-    "file": "Mega雪妖女.png",
+    "file": "champions-hd/froslass-mega.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/478-mega.png"
   },
   {
     "id": "hawlucha-mega",
     "originalFile": "80px-Champions_0701M_Sprite.png",
-    "file": "Mega摔角鷹人.png",
+    "file": "champions-hd/hawlucha-mega.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/701-mega.png"
   },
   {
     "id": "blastoise-mega",
     "originalFile": "80px-Champions_0009M_Sprite.png",
-    "file": "Mega水箭龜.png",
+    "file": "champions-hd/blastoise-mega.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/9-mega.png"
   },
   {
     "id": "garchomp-mega-z",
     "originalFile": "80px-Champions_0445MZ_Sprite.png",
-    "file": "Mega烈咬陸鯊Z.png",
+    "file": "champions-hd/garchomp-mega-z.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/445-mega-z.png"
   },
   {
     "id": "incineroar",
     "originalFile": "80px-Champions_0727_Sprite.png",
-    "file": "熾焰咆哮虎.png",
+    "file": "champions-hd/incineroar.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/727.png"
   },
   {
     "id": "golisopod",
     "originalFile": "80px-Champions_0768_Sprite.png",
-    "file": "具甲武者.png",
+    "file": "champions-hd/golisopod.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/768.png"
   },
   {
     "id": "golisopod-mega",
     "originalFile": "80px-Champions_0768M_Sprite.png",
-    "file": "Mega具甲武者.png",
+    "file": "champions-hd/golisopod-mega.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/768-mega.png"
   },
   {
     "id": "rillaboom",
     "originalFile": "80px-Champions_0812_Sprite.png",
-    "file": "轟擂金剛猩.png",
+    "file": "champions-hd/rillaboom.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/812.png"
   },
   {
     "id": "indeedee-male",
     "originalFile": "80px-Champions_0876_Sprite.png",
-    "file": "愛管侍（公）.png",
+    "file": "champions-hd/indeedee-male.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/876.png"
   },
   {
     "id": "indeedee-female",
     "originalFile": "80px-Champions_0876F_Sprite.png",
-    "file": "愛管侍（母）.png",
+    "file": "champions-hd/indeedee-female.png",
     "sourcePage": "https://wiki.52poke.com/wiki/宝可梦列表（Champions）",
-    "format": "PNG"
+    "format": "PNG",
+    "url": "https://assets.pokeos.com/pokemon/games/champions/876-female.png"
   }
 ]
